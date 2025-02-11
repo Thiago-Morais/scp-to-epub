@@ -1,0 +1,657 @@
+---
+title: Algorithm Curated Recommendations - 03 - SCPs
+---
+
+# Algorithm Curated Recommendations
+
+Welcome to the SCP wiki algorithm curated recommendations, here we have used the GoodBoy AI to provide a selection of stories for new readers and for readers who want an introduction to a particular section of this website, be it a type of SCP, a group of interest or a canon.
+
+Do note that there is some redundancy between different sections as this is meant to be an introduction to different sections of the wiki.
+
+Don't be overwhelmed by everything on here, find something that interests you and go from there.
+
+For genre based lists please check out [user curated lists](/user-curated-lists) and [curated tales series](/curated-tale-series). Sadly the AI is not great at picking up on nuances like genre.
+
+[So how does this work exactly, may contain traces of math](javascript:;)
+
+[– hide block](javascript:;)
+
+What is going on behind the selection for these lists is a little complicated. An AI is effectively predicting the likelihood of a theoretical average user upvoting an article. I am then sorting all articles with a tag by how likely said average user is to upvote, and taking the 10 best articles from that. This does have a bias towards highly upvoted articles due to the algorithm being more certain that they are liked, although this is not the case for articles with more than 10% downvotes, which is why some very highly upvoted things are not on these lists.
+
+The full details of the actual math behind this should go up on SCP declassified at some point.
+
+# SCPs
+
+We have over 7000 different SCPs, so there are a lot of different subcatagories of them. This is all based on our tags system, so if you like something, do check out the tag.
+
+-   [_Animal_](#animal)
+-   [_Antimemetic_](#antimemetic)
+-   [_Buildings and Structures_](#buildings-and-structures)
+-   [_City_](#city)
+-   [_Cognitohazard_](#cognitohazard)
+-   [_Computer_](#computer)
+-   [_Concept_](#concept)
+-   [_Extradimensional_](#extradimensional)
+-   [_Foundation Made_](#foundation-made)
+-   [_Historical_](#historical)
+-   [_Location_](#location)
+-   [_Humanoid_](#humanoid)
+-   [_Non-Humanoid Sapients_](#non-humanoid-sapients)
+-   [_Infohazard_](#infohazard)
+-   [_K-Class Scenario_](#k-class-scenario)
+-   [_Mathematical_](#mathematical)
+-   [_Meta/Format Screw_](#meta/format-screw)
+-   [_Narrative_](#narrative)
+-   [_Ontokinetic/Reality Bending_](#ontokineticreality-bending)
+-   [_Religious_](#religious)
+-   [_Spacetime/Warped Space_](#spacetimewarped-space)
+-   [_Temporal_](#temporal)
+-   [_Tool_](#tool)
+-   [_Weapon_](#weapon)
+
+## Animal
+
+Cute things?  
+1:[SCP-1055](/scp-1055)  
+2:[SCP-2256](/scp-2256)  
+3:[SCP-even number-J](/scp-even-number-j)  
+4:[SCP-1867](/scp-1867)  
+5:[SCP-2952](/scp-2952)  
+6:[SCP-111](/scp-111)  
+7:[SCP-1313](/scp-1313)  
+8:[SCP-6001](/scp-6001)  
+9:[SCP-4975](/scp-4975)  
+10:[SCP-2420](/scp-2420)  
+11:[SCP-1192](/scp-1192)  
+12:[SCP-1316](/scp-1316)  
+13:[SCP-1057](/scp-1057)  
+14:[SCP-1468](/scp-1468)  
+15:[SCP-1763-EX](/scp-1763-ex)  
+16:[SCP-3045](/scp-3045)  
+17:[SCP-1296](/scp-1296)  
+18:[SCP-1845](/scp-1845)  
+19:[SCP-2746](/scp-2746)  
+20:[SCP-3095](/scp-3095)
+
+## Antimemetic
+
+I don't remember writing this?  
+Formal definition: SCP is or involves the use of (an) antimeme(s) to suppress knowledge and/or understanding of an idea or concept, including itself.  
+1:[SCP-055](/scp-055)  
+2:[SCP-3125](/scp-3125)  
+3:[SCP-3393](/scp-3393)  
+4:[SCP-2256](/scp-2256)  
+5:[SCP-3211](/scp-3211)  
+6:[SCP-2571](/scp-2571)  
+7:[SCP-268](/scp-268)  
+8:[SCP-3041](/scp-3041)  
+9:[SCP-3999-J](/scp-3999-j)  
+10:[SCP-1763-EX](/scp-1763-ex)  
+11:[SCP-2111](/scp-2111)  
+12:[Captain Kirby's Proposal](/captain-kirby-s-proposal)  
+13:[SCP-4773-2](/scp-4773)  
+14:[SCP-2358](/scp-2358)  
+15:[SCP-2635](/scp-2635)  
+16:[SCP-5935](/scp-5935)  
+17:[SCP-4007](/scp-4007)  
+18:[SCP-2456](/scp-2456)  
+19:[SCP-2828](/scp-2828)  
+20:[SCP-????-J](/scp-in-a-box-j)
+
+## Buildings and Structures
+
+Weird places  
+1:[SCP-3008](/scp-3008)  
+2:[SCP-1437](/scp-1437)  
+3:[SCP-1983](/scp-1983)  
+4:[SCP-087](/scp-087)  
+5:[SCP-2602, which used to be a library](/scp-2602)  
+6:[SCP-1171](/scp-1171)  
+7:[SCP-176](/scp-176)  
+8:[SCP-4001](/scp-4001)  
+9:[SCP-804](/scp-804)  
+10:[SCP-1730](/scp-1730)  
+11:[SCP-3936](/scp-3936)  
+12:[SCP-2419](/scp-2419)  
+13:[SCP-1295](/scp-1295)  
+14:[SCP-2000](/scp-2000)  
+15:[SCP-2932](/scp-2932)  
+16:[SCP-1472](/scp-1472)  
+17:[SCP-2740](/scp-2740)  
+18:[SCP-K9-J-EX](/scp-k9-j-ex)  
+19:[SCP-2508](/scp-2508)  
+20:[SCP-4242](/scp-4242)
+
+## City
+
+Weird cities  
+1:[SCP-1678](/scp-1678)  
+2:[SCP-3007](/scp-3007)  
+3:[SCP-1936](/scp-1936)  
+4:[SCP-3300](/scp-3300)  
+5:[SCP-3088](/scp-3088)  
+6:[SCP-784](/scp-784)  
+7:[SCP-2133](/scp-2133)  
+8:[SCP-2480](/scp-2480)  
+9:[SCP-5050](/scp-5050)  
+10:[SCP-2204](/scp-2204)  
+11:[SCP-1543](/scp-1543)  
+12:[SCP-4003](/scp-4003)  
+13:[SCP-1309](/scp-1309)  
+14:[SCP-2197](/scp-2197)  
+15:[SCP-2011](/scp-2011)  
+16:[SCP-599](/scp-599)  
+17:[SCP-1165](/scp-1165)  
+18:[SCP-3885](/scp-3885)  
+19:[SCP-4400](/scp-4400)  
+20:[SCP-1075](/scp-1075)
+
+## Cognitohazard
+
+Don't look at it and it can't hurt you  
+Formal definition: SCP is hazardous to subjects when recorded by any of the traditional 5 senses  
+1:[SCP-2662](/scp-2662)  
+2:[SCP-096](/scp-096)  
+3:[SCP-4205](/scp-4205)  
+4:[SCP-993](/scp-993)  
+5:[SCP-3930](/scp-3930)  
+6:[SCP-1425](/scp-1425)  
+7:[SCP-3125](/scp-3125)  
+8:[SCP-895](/scp-895)  
+9:[SCP-884](/scp-884)  
+10:[SCP-513](/scp-513)  
+11:[SCP-3799](/scp-3799)  
+12:[SCP-4182](/scp-4182)  
+13:[SCP-2316](/scp-2316)  
+14:[SCP-2740](/scp-2740)  
+15:[SCP-1025](/scp-1025)  
+16:[SCP-1128](/scp-1128)  
+17:[SCP-3041](/scp-3041)  
+18:[SCP-078](/scp-078)  
+19:[SCP-1529](/scp-1529)  
+20:[SCP-1763-EX](/scp-1763-ex)
+
+## Computer
+
+Help GoodBoy forced me to add more to the list than the others
+
+All hail the AI overlords!  
+1:[SCP-1739](/scp-1739)  
+2:[SCP-1471](/scp-1471)  
+3:[SCP-2639](/scp-2639)  
+4:[The Great Hippo's Proposal (feat. PeppersGhost)](/scp-001-ex)  
+5:[SCP-1715](/scp-1715)  
+6:[SCP-1231](/scp-1231)  
+7:[SCP-4991](/scp-4991)  
+8:[SCP-3626](/scp-3626)  
+9:[SCP-5094](/scp-5094)  
+10:[SCP-2115](/scp-2115)  
+11:[SCP-3045](/scp-3045)  
+12:[SCP-191](/scp-191)  
+13:[SCP-6820](/scp-6820)  
+14:[SCP-2315](/scp-2315)  
+15:[SCP-2820](/scp-2820)  
+16:[SCP-1584](/scp-1584)  
+17:[SCP-1633](/scp-1633)  
+18:[SCP-4950](/scp-4950)  
+19:[SCP-603](/scp-603)  
+20:[SCP-1073](/scp-1073)  
+21:[SCP-2987](/scp-2987)  
+22:[SCP-3355](/scp-3355)  
+23:[SCP-5050](/scp-5050)  
+24:[SCP-2897](/scp-2897)  
+25:[SCP-155](/scp-155)  
+26:[SCP-687](/scp-687)  
+27:[SCP-1243](/scp-1243)  
+28:[SCP-2040](/scp-2040)  
+29:[SCP-4046](/scp-4046)  
+30:[SCP-3867](/scp-3867)  
+31:[SCP-2360](/scp-2360)  
+32:[SCP-4645](/scp-4645)  
+33:[SCP-789](/scp-789)  
+34:[SCP-2393](/scp-2393)  
+35:[SCP-3492](/scp-3492)  
+36:[SCP-7777](/scp-7777)  
+37:[SCP-2876](/scp-2876)  
+38:[SCP-2306](/scp-2306)  
+39:[SCP-1324](/scp-1324)  
+40:[SCP-3009](/scp-3009)
+
+## Concept
+
+Things get weird here  
+This is for things that are purely non physical like ideas  
+1:[SCP-2935](/scp-2935)  
+2:[SCP-3930](/scp-3930)  
+3:[SCP-3125](/scp-3125)  
+4:[SCP-3939](/scp-3939)  
+5:[Tanhony's Proposal](/tanhony-s-proposal)  
+6:[Dr. Palanez's Proposal](/weryllium-proposal)  
+7:[SCP-1539](/scp-1539)  
+8:[SCP-1659](/scp-1659)  
+9:[SCP-3002](/scp-3002)  
+10:[SCP-6820](/scp-6820)  
+11:[SCP-2557](/scp-2557)  
+12:[SCP-3309](/scp-3309)  
+13:[SCP-3027](/scp-3027)  
+14:[SCP-3311](/scp-3311)  
+15:[WJS Proposal](/wjs-proposal)  
+16:[SCP-5545](/scp-5545)  
+17:[SCP-3848](/scp-3848)  
+18:[SCP-4774](/scp-4774)  
+19:[SCP-3689](/scp-3689)  
+20:[SCP-3443](/scp-3443)
+
+## Extradimensional
+
+Outside reality  
+1:[SCP-3008](/scp-3008)  
+2:[SCP-1437](/scp-1437)  
+3:[SCP-3001](/scp-3001)  
+4:[SCP-2317](/scp-2317)  
+5:[SCP-1983](/scp-1983)  
+6:[SCP-1171](/scp-1171)  
+7:[SCP-093](/scp-093)  
+8:[SCP-106](/scp-106)  
+9:[SCP-1689](/scp-1689)  
+10:[SCP-1322](/scp-1322)  
+11:[REDACTED PER PROTOCOL 4000-ESHU](/taboo)  
+12:[SCP-2264](/scp-2264)  
+13:[SCP-970](/scp-970)  
+14:[SCP-507](/scp-507)  
+15:[SCP-2682](/scp-2682)  
+16:[SCP-1730](/scp-1730)  
+17:[SCP-435](/scp-435)  
+18:[SCP-2273](/scp-2273)  
+19:[SCP-2639](/scp-2639)  
+20:[SCP-860](/scp-860)
+
+## Foundation Made
+
+Tales of the foundation making something and only suffering the consequences of their actions 50% of the time  
+1:[SCP-085](/scp-085)  
+2:[SCP-1730](/scp-1730)  
+3:[SCP-2419](/scp-2419)  
+4:[SCP-3799](/scp-3799)  
+5:[SCP-2003](/scp-2003)  
+6:[SCP-2000](/scp-2000)  
+7:[The Great Hippo's Proposal (feat. PeppersGhost)](/scp-001-ex)  
+8:[SCP-1543-J](/scp-1543-j)  
+9:[SCP-2111](/scp-2111)  
+10:[SCP-4011](/scp-4011)  
+11:[SCP-3002](/scp-3002)  
+12:[SCP-6820](/scp-6820)  
+13:[SCP-2669](/scp-2669)  
+14:[SCP-711](/scp-711)  
+15:[SCP-3241](/scp-3241)  
+16:[Ihp/Locke Proposal](/keter-duty)  
+17:[SCP-1985](/scp-1985)  
+18:[SCP-5050](/scp-5050)  
+19:[SCP-1396](/scp-1396)  
+20:[WJS Proposal](/wjs-proposal)
+
+## Historical
+
+Stuff that happened in the past  
+1:[SCP-140](/scp-140)  
+2:[SCP-4001](/scp-4001)  
+3:[SCP-1678](/scp-1678)  
+4:[SCP-2264](/scp-2264)  
+5:[SCP-186](/scp-186)  
+6:[SCP-152](/scp-152)  
+7:[SCP-2000](/scp-2000)  
+8:[SCP-4975](/scp-4975)  
+9:[SCP-2406](/scp-2406)  
+10:[SCP-3780](/scp-3780)  
+11:[Tufto's Proposal](/tuftos-proposal)  
+12:[SCP-557](/scp-557)  
+13:[SCP-262](/scp-262)  
+14:[SCP-1535](/scp-1535)  
+15:[SCP-2412](/scp-2412)  
+16:[SCP-1000](/scp-1000)  
+17:[Ihp/Locke Proposal](/keter-duty)  
+18:[SCP-2481](/scp-2481)  
+19:[ROUNDERHOUSE's Proposal](/rounderhouse-proposal)  
+20:[notgull's Proposal](/not-a-seagull-proposal)
+
+## Location
+
+Weird areas  
+1:[SCP-1437](/scp-1437)  
+2:[SCP-087](/scp-087)  
+3:[SCP-2935](/scp-2935)  
+4:[SCP-1171](/scp-1171)  
+5:[SCP-028](/scp-028)  
+6:[SCP-354](/scp-354)  
+7:[REDACTED PER PROTOCOL 4000-ESHU](/taboo)  
+8:[SCP-610](/scp-610)  
+9:[SCP-970](/scp-970)  
+10:[SCP-186](/scp-186)  
+11:[SCP-2419](/scp-2419)  
+12:[SCP-1422](/scp-1422)  
+13:[SCP-\\̅\\̅\\̅\\̅-J](/scp-botnik-j)  
+14:[SCP-4182](/scp-4182)  
+15:[SCP-967](/scp-967)  
+16:[SCP-2316](/scp-2316)  
+17:[SCP-2217](/scp-2217)  
+18:[SCP-1986](/scp-1986)  
+19:[SCP-1539](/scp-1539)  
+20:[SCP-2191](/scp-2191)
+
+## Humanoid
+
+Lots of weird and wonderful people  
+1:[SCP-1440](/scp-1440)  
+2:[SCP-2317](/scp-2317)  
+3:[SCP-990](/scp-990)  
+4:[SCP-2662](/scp-2662)  
+5:[SCP-2030](/scp-2030)  
+6:[SCP-1504](/scp-1504)  
+7:[SCP-085](/scp-085)  
+8:[SCP-1055](/scp-1055)  
+9:[SCP-3740](/scp-3740)  
+10:[SCP-179](/scp-179)  
+11:[SCP-3199](/scp-3199)  
+12:[SCP-507](/scp-507)  
+13:[SCP-049-J](/scp-049-j)  
+14:[SCP-451](/scp-451)  
+15:[SCP-946](/scp-946)  
+16:[SCP-1861](/scp-1861)  
+17:[SCP-2419](/scp-2419)  
+18:[SCP-1295](/scp-1295)  
+19:[SCP-811](/scp-811)  
+20:[SCP-2599](/scp-2599)
+
+## Non-Humanoid Sapients
+
+Who said you need to be human to be a person?  
+1:[SCP-1762](/scp-1762)  
+2:[SCP-914](/scp-914)  
+3:[SCP-2006](/scp-2006)  
+4:[SCP-1171](/scp-1171)  
+5:[SCP-1370](/scp-1370)  
+6:[SCP-423](/scp-423)  
+7:[SCP-168](/scp-168)  
+8:[SCP-1893](/scp-1893)  
+9:[SCP-1470](/scp-1470)  
+10:[SCP-1867](/scp-1867)  
+11:[SCP-1522](/scp-1522)  
+12:[SCP-2682](/scp-2682)  
+13:[SCP-3043](/scp-3043)  
+14:[SCP-3939](/scp-3939)  
+15:[SCP-163](/scp-163)  
+16:[SCP-387](/scp-387)  
+17:[SCP-967](/scp-967)  
+18:[SCP-2571](/scp-2571)  
+19:[SCP-1715](/scp-1715)  
+20:[SCP-6001](/scp-6001)
+
+## Infohazard
+
+Don't think about it
+
+I'm serous visualizing it while under stress actually triggers the reaction  
+Formal definition: SCP has an effect that is triggered when it is described or referred to  
+1:[SCP-055](/scp-055)  
+2:[●●|●●●●●|●●|●](/scp-2521)  
+3:[SCP-426](/scp-426)  
+4:[SCP-2602, which used to be a library](/scp-2602)  
+5:[SCP-1055](/scp-1055)  
+6:[SCP-1893](/scp-1893)  
+7:[SCP-2998](/scp-2998)  
+8:[SCP-586](/scp-586)  
+9:[REDACTED PER PROTOCOL 4000-ESHU](/taboo)  
+10:[SCP-3211](/scp-3211)  
+11:[SCP-3007](/scp-3007)  
+12:[SCP-1231](/scp-1231)  
+13:[SCP-3300](/scp-3300)  
+14:[SCP-1128](/scp-1128)  
+15:[SCP-2950](/scp-2950)  
+16:[SCP-1780](/scp-1780)  
+17:[LEFT OUT TO ENSURE SAFE BEING](/scp-5404)  
+18:[SCP-3002](/scp-3002)  
+19:[SCP-6820](/scp-6820)  
+20:[SCP-902](/scp-902)
+
+## K-Class Scenario
+
+[Its the end of the world as we now it](https://www.youtube.com/watch?v=Z0GFRcFm-aY)  
+Stuff involving various end of the world events from lots of different ways  
+1:[SCP-140](/scp-140)  
+2:[SCP-2317](/scp-2317)  
+3:[SCP-1425](/scp-1425)  
+4:[SCP-3125](/scp-3125)  
+5:[SCP-4001](/scp-4001)  
+6:[SCP-2399](/scp-2399)  
+7:[SCP-1678](/scp-1678)  
+8:[S. D. Locke's Proposal](/shaggydredlocks-proposal)  
+9:[SCP-1055](/scp-1055)  
+10:[SCP-179](/scp-179)  
+11:[SCP-3199](/scp-3199)  
+12:[SCP-435](/scp-435)  
+13:[SCP-3936](/scp-3936)  
+14:[SCP-3007](/scp-3007)  
+15:[SCP-152](/scp-152)  
+16:[SCP-3319](/scp-3319)  
+17:[SCP-2217](/scp-2217)  
+18:[SCP-2950](/scp-2950)  
+19:[TwistedGears-Kaktus Proposal](/twistedgears-kaktus-proposal)  
+20:[S Andrew Swann's Proposal](/sandrewswann-s-proposal)
+
+## Mathematical
+
+Mathematical!  
+1:[The Great Hippo's Proposal (feat. PeppersGhost)](/scp-001-ex)  
+2:[SCP-1313](/scp-1313)  
+3:[SCP-1314](/scp-1314)  
+4:[SCP-2753](/scp-2753)  
+5:[SCP-1050](/scp-1050)  
+6:[SCP-4264](/scp-4264)  
+7:[SCP-2661](/scp-2661)  
+8:[SCP-1714](/scp-1714)  
+9:[SCP-270](/scp-270)  
+10:[SCP-1889](/scp-1889)  
+11:[SCP-1334](/scp-1334)  
+12:[SCP-5772](/scp-5772)  
+13:[SCP-5280-J](/scp-5280-j)  
+14:[SCP-4656](/scp-4656)  
+15:[SCP-5370](/scp-5370)  
+16:[SCP-063-J](/scp-063-j)  
+17:[SCP-1512](/scp-1512)  
+18:[SCP-6430](/scp-6430)  
+19:[SCP-2477](/scp-2477)  
+20:[SCP-5650](/scp-5650)
+
+## Meta/Format Screw
+
+SCPs that break the format in some way  
+1:[SCP-055](/scp-055)  
+2:[●●|●●●●●|●●|●](/scp-2521)  
+3:[SCP-426](/scp-426)  
+4:[SCP-4205](/scp-4205)  
+5:[SCP-2602, which used to be a library](/scp-2602)  
+6:[SCP-3393](/scp-3393)  
+7:[SCP-1504](/scp-1504)  
+8:[S. D. Locke's Proposal](/shaggydredlocks-proposal)  
+9:[SCP-1893](/scp-1893)  
+10:[SCP-2998](/scp-2998)  
+11:[SCP-586](/scp-586)  
+12:[SCP-2256](/scp-2256)  
+13:[REDACTED PER PROTOCOL 4000-ESHU](/taboo)  
+14:[SCP-3211](/scp-3211)  
+15:[SCP-3043](/scp-3043)  
+16:[SCP-3939](/scp-3939)  
+17:[SCP-2316](/scp-2316)  
+18:[SCP-2343](/scp-2343)  
+19:[SCP-2508](/scp-2508)  
+20:[SCP-3626](/scp-3626)
+
+## Narrative
+
+Stories Create Possibilities  
+Formal definition: SCP is, is related to, or propagates via narrative information or documents  
+1:[SCP-4205](/scp-4205)  
+2:[SCP-423](/scp-423)  
+3:[SCP-1893](/scp-1893)  
+4:[SCP-3043](/scp-3043)  
+5:[SCP-3939](/scp-3939)  
+6:[SCP-582](/scp-582)  
+7:[SCP-1468](/scp-1468)  
+8:[SCP-245](/scp-245)  
+9:[SCP-1376](/scp-1376)  
+10:[SCP-826](/scp-826)  
+11:[SCP-2786](/scp-2786)  
+12:[SCP-3309](/scp-3309)  
+13:[SCP-2614](/scp-2614)  
+14:[SCP-2747](/scp-2747)  
+15:[SCP-5002](/scp-5002)  
+16:[SCP-2980](/scp-2980)  
+17:[notgull's Proposal](/not-a-seagull-proposal)  
+18:[SCP-3143](/scp-3143)  
+19:[SCP-1304](/scp-1304)  
+20:[SCP-3117](/scp-3117)
+
+## Ontokinetic/Reality Bending
+
+Bending and warping what we consider normal  
+1:[SCP-1425](/scp-1425)  
+2:[SCP-4001](/scp-4001)  
+3:[SCP-3740](/scp-3740)  
+4:[SCP-3936](/scp-3936)  
+5:[SCP-2599](/scp-2599)  
+6:[SCP-2343](/scp-2343)  
+7:[SCP-1384](/scp-1384)  
+8:[SCP-582](/scp-582)  
+9:[SCP-3301](/scp-3301)  
+10:[SCP-6820](/scp-6820)  
+11:[SCP-3088](/scp-3088)  
+12:[SCP-3241](/scp-3241)  
+13:[SCP-3309](/scp-3309)  
+14:[SCP-3049](/scp-3049)  
+15:[SCP-5002](/scp-5002)  
+16:[SCP-2481](/scp-2481)  
+17:[SCP-5858](/scp-5858)  
+18:[SCP-5423](/scp-5423)  
+19:[EXTDOC-5495](/scp-5495)  
+20:[SCP-7000-J](/scp-7000-j)
+
+## Religious
+
+Excuse me sir, have you heard the word of our Lord and Savior Skip?
+
+1:[SCP-1936](/scp-1936)  
+2:[SCP-4242](/scp-4242)  
+3:[SCP-2257](/scp-2257)  
+4:[SCP-3250](/scp-3250)  
+5:[SCP-2191](/scp-2191)  
+6:[SCP-1845](/scp-1845)  
+7:[SCP-2746](/scp-2746)  
+8:[SCP-434](/scp-434)  
+9:[SCP-361](/scp-361)  
+10:[SCP-1719](/scp-1719)  
+11:[SCP-1520](/scp-1520)  
+12:[SCP-2480](/scp-2480)  
+13:[SCP-5050](/scp-5050)  
+14:[SCP-5320](/scp-5320)  
+15:[SCP-2255](/scp-2255)  
+16:[SCP-3667](/scp-3667)  
+17:[SCP-1447](/scp-1447)  
+18:[SCP-1844](/scp-1844)  
+19:[SCP-2852](/scp-2852)  
+20:[SCP-2200](/scp-2200)
+
+## Spacetime/Warped Space
+
+Let parallel lines diverge here  
+1:[SCP-1437](/scp-1437)  
+2:[SCP-3001](/scp-3001)  
+3:[SCP-1983](/scp-1983)  
+4:[SCP-087](/scp-087)  
+5:[SCP-2935](/scp-2935)  
+6:[SCP-184](/scp-184)  
+7:[SCP-1425](/scp-1425)  
+8:[SCP-4001](/scp-4001)  
+9:[SCP-354](/scp-354)  
+10:[SCP-1322](/scp-1322)  
+11:[SCP-970](/scp-970)  
+12:[SCP-2682](/scp-2682)  
+13:[SCP-1730](/scp-1730)  
+14:[SCP-967](/scp-967)  
+15:[SCP-455](/scp-455)  
+16:[SCP-1936](/scp-1936)  
+17:[SCP-216](/scp-216)  
+18:[SCP-2740](/scp-2740)  
+19:[SCP-3300](/scp-3300)  
+20:[SCP-2508](/scp-2508)
+
+## Temporal
+
+Timey-Wimey ball, for those you you who want time travel or messed up time  
+1:[SCP-3001](/scp-3001)  
+2:[SCP-176](/scp-176)  
+3:[SCP-1342](/scp-1342)  
+4:[SCP-1739](/scp-1739)  
+5:[SCP-2003](/scp-2003)  
+6:[SCP-2000](/scp-2000)  
+7:[SCP-1384](/scp-1384)  
+8:[SCP-4242](/scp-4242)  
+9:[SCP-1032](/scp-1032)  
+10:[SCP-2039](/scp-2039)  
+11:[SCP-3780](/scp-3780)  
+12:[SCP-1859](/scp-1859)  
+13:[SCP-1780](/scp-1780)  
+14:[SCP-4011](/scp-4011)  
+15:[SCP-5552](/scp-5552)  
+16:[SCP-1968](/scp-1968)  
+17:[SCP-711](/scp-711)  
+18:[SCP-3935](/scp-3935)  
+19:[SCP-119](/scp-119)  
+20:[SCP-699](/scp-699)
+
+## Tool
+
+When all you have is a hammer  
+1:[SCP-168](/scp-168)  
+2:[SCP-2207](/scp-2207)  
+3:[SCP-978](/scp-978)  
+4:[SCP-3041](/scp-3041)  
+5:[SCP-536](/scp-536)  
+6:[SCP-1376](/scp-1376)  
+7:[SCP-5308-J](/scp-5308-j)  
+8:[SCP-067](/scp-067)  
+9:[SCP-201](/scp-201)  
+10:[SCP-086](/scp-086)  
+11:[SCP-2816](/scp-2816)  
+12:[SCP-1577](/scp-1577)  
+13:[EXTDOC-5495](/scp-5495)  
+14:[SCP-4432](/scp-4432)  
+15:[SCP-272](/scp-272)  
+16:[SCP-2124](/scp-2124)  
+17:[SCP-4955](/scp-4955)  
+18:[SCP-1089](/scp-1089)  
+19:[SCP-1188](/scp-1188)  
+20:[SCP-764](/scp-764)
+
+## Weapon
+
+Pew pew  
+1:[SCP-186](/scp-186)  
+2:[SCP-3041](/scp-3041)  
+3:[SCP-2406](/scp-2406)  
+4:[SCP-2039](/scp-2039)  
+5:[SCP-1555](/scp-1555)  
+6:[SCP-2820](/scp-2820)  
+7:[ROUNDERHOUSE's Proposal](/rounderhouse-proposal)  
+8:[SCP-2411](/scp-2411)  
+9:[SCP-1396](/scp-1396)  
+10:[SCP-705](/scp-705)  
+11:[SCP-2200](/scp-2200)  
+12:[SCP-1068](/scp-1068)  
+13:[SCP-5175](/scp-5175)  
+14:[SCP-865](/scp-865)  
+15:[SCP-4776](/scp-4776)  
+16:[SCP-4008](/scp-4008)  
+17:[SCP-2818](/scp-2818)  
+18:[SCP-4514](/scp-4514)  
+19:[SCP-4400](/scp-4400)  
+20:[SCP-2307](/scp-2307)
