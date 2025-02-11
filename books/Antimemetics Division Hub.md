@@ -16,16 +16,16 @@ No, this is not your first day.
 
 _Suggested reading order is from top to bottom._
 
-<!-- ## Critical background reading
+## Critical background reading
 
--   [SCP-055](/scp-055) by [qntm](/qntm-s-author-page) (first half) and CptBellman (Addendum A onwards) -->
+-   [SCP-055](/scp-055) by [qntm](/qntm-s-author-page) (first half) and CptBellman (Addendum A onwards)
 
 ## _There Is No Antimemetics Division_ by [qntm](/qntm-s-author-page)
 
 This story is complete.
 
 -   [We Need To Talk About Fifty-Five](/we-need-to-talk-about-fifty-five)
-<!-- -   [Introductory Antimemetics](/introductory-antimemetics)
+-   [Introductory Antimemetics](/introductory-antimemetics)
 -   [Unforgettable, That's What You Are](/unforgettable-that-s-what-you-are)
 -   [CASE COLOURLESS GREEN](/case-colourless-green)
 -   [Your Last First Day](/your-last-first-day)
@@ -92,4 +92,4 @@ And there's a wealth of antimemetic SCPs and Tales. Here are some great places t
 -   [SCP-3393](/scp-3393) by [Captain Kirby](/captain-kirby-s-personal-file)
 -   [SCP-3211](/scp-3211) by [Croquembouche](/croquembouche)
 -   [SCP-4773](/scp-4773) by [MaliceAforethought](/maliceaf-author-ght) and [Henzoid](/henzoids-author-page)
--   [Note: Your Name is "Nobody"](/note-your-name-is-nobody) by Iapetus The Acausal -->
+-   [Note: Your Name is "Nobody"](/note-your-name-is-nobody) by Iapetus The Acausal
