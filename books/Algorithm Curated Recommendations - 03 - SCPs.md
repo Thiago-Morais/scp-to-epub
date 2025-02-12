@@ -2,7 +2,7 @@
 title: Algorithm Curated Recommendations - 03 - SCPs
 ---
 
-# Algorithm Curated Recommendations
+## Algorithm Curated Recommendations
 
 Welcome to the SCP wiki algorithm curated recommendations, here we have used the GoodBoy AI to provide a selection of stories for new readers and for readers who want an introduction to a particular section of this website, be it a type of SCP, a group of interest or a canon.
 
@@ -20,7 +20,7 @@ What is going on behind the selection for these lists is a little complicated. A
 
 The full details of the actual math behind this should go up on SCP declassified at some point.
 
-# SCPs
+## SCPs
 
 We have over 7000 different SCPs, so there are a lot of different subcatagories of them. This is all based on our tags system, so if you like something, do check out the tag.
 
@@ -49,7 +49,7 @@ We have over 7000 different SCPs, so there are a lot of different subcatagories 
 -   [_Tool_](#tool)
 -   [_Weapon_](#weapon)
 
-## Animal
+### Animal
 
 Cute things?  
 1:[SCP-1055](/scp-1055)  
@@ -73,7 +73,7 @@ Cute things?
 19:[SCP-2746](/scp-2746)  
 20:[SCP-3095](/scp-3095)
 
-## Antimemetic
+### Antimemetic
 
 I don't remember writing this?  
 Formal definition: SCP is or involves the use of (an) antimeme(s) to suppress knowledge and/or understanding of an idea or concept, including itself.  
@@ -98,7 +98,7 @@ Formal definition: SCP is or involves the use of (an) antimeme(s) to suppress kn
 19:[SCP-2828](/scp-2828)  
 20:[SCP-????-J](/scp-in-a-box-j)
 
-## Buildings and Structures
+### Buildings and Structures
 
 Weird places  
 1:[SCP-3008](/scp-3008)  
@@ -122,7 +122,7 @@ Weird places
 19:[SCP-2508](/scp-2508)  
 20:[SCP-4242](/scp-4242)
 
-## City
+### City
 
 Weird cities  
 1:[SCP-1678](/scp-1678)  
@@ -146,7 +146,7 @@ Weird cities
 19:[SCP-4400](/scp-4400)  
 20:[SCP-1075](/scp-1075)
 
-## Cognitohazard
+### Cognitohazard
 
 Don't look at it and it can't hurt you  
 Formal definition: SCP is hazardous to subjects when recorded by any of the traditional 5 senses  
@@ -171,7 +171,7 @@ Formal definition: SCP is hazardous to subjects when recorded by any of the trad
 19:[SCP-1529](/scp-1529)  
 20:[SCP-1763-EX](/scp-1763-ex)
 
-## Computer
+### Computer
 
 Help GoodBoy forced me to add more to the list than the others
 
@@ -217,7 +217,7 @@ All hail the AI overlords!
 39:[SCP-1324](/scp-1324)  
 40:[SCP-3009](/scp-3009)
 
-## Concept
+### Concept
 
 Things get weird here  
 This is for things that are purely non physical like ideas  
@@ -242,7 +242,7 @@ This is for things that are purely non physical like ideas
 19:[SCP-3689](/scp-3689)  
 20:[SCP-3443](/scp-3443)
 
-## Extradimensional
+### Extradimensional
 
 Outside reality  
 1:[SCP-3008](/scp-3008)  
@@ -266,7 +266,7 @@ Outside reality
 19:[SCP-2639](/scp-2639)  
 20:[SCP-860](/scp-860)
 
-## Foundation Made
+### Foundation Made
 
 Tales of the foundation making something and only suffering the consequences of their actions 50% of the time  
 1:[SCP-085](/scp-085)  
@@ -290,7 +290,7 @@ Tales of the foundation making something and only suffering the consequences of 
 19:[SCP-1396](/scp-1396)  
 20:[WJS Proposal](/wjs-proposal)
 
-## Historical
+### Historical
 
 Stuff that happened in the past  
 1:[SCP-140](/scp-140)  
@@ -314,7 +314,7 @@ Stuff that happened in the past
 19:[ROUNDERHOUSE's Proposal](/rounderhouse-proposal)  
 20:[notgull's Proposal](/not-a-seagull-proposal)
 
-## Location
+### Location
 
 Weird areas  
 1:[SCP-1437](/scp-1437)  
@@ -338,7 +338,7 @@ Weird areas
 19:[SCP-1539](/scp-1539)  
 20:[SCP-2191](/scp-2191)
 
-## Humanoid
+### Humanoid
 
 Lots of weird and wonderful people  
 1:[SCP-1440](/scp-1440)  
@@ -362,7 +362,7 @@ Lots of weird and wonderful people
 19:[SCP-811](/scp-811)  
 20:[SCP-2599](/scp-2599)
 
-## Non-Humanoid Sapients
+### Non-Humanoid Sapients
 
 Who said you need to be human to be a person?  
 1:[SCP-1762](/scp-1762)  
@@ -386,7 +386,7 @@ Who said you need to be human to be a person?
 19:[SCP-1715](/scp-1715)  
 20:[SCP-6001](/scp-6001)
 
-## Infohazard
+### Infohazard
 
 Don't think about it
 
@@ -413,7 +413,7 @@ Formal definition: SCP has an effect that is triggered when it is described or r
 19:[SCP-6820](/scp-6820)  
 20:[SCP-902](/scp-902)
 
-## K-Class Scenario
+### K-Class Scenario
 
 [Its the end of the world as we now it](https://www.youtube.com/watch?v=Z0GFRcFm-aY)  
 Stuff involving various end of the world events from lots of different ways  
@@ -438,7 +438,7 @@ Stuff involving various end of the world events from lots of different ways
 19:[TwistedGears-Kaktus Proposal](/twistedgears-kaktus-proposal)  
 20:[S Andrew Swann's Proposal](/sandrewswann-s-proposal)
 
-## Mathematical
+### Mathematical
 
 Mathematical!  
 1:[The Great Hippo's Proposal (feat. PeppersGhost)](/scp-001-ex)  
@@ -462,7 +462,7 @@ Mathematical!
 19:[SCP-2477](/scp-2477)  
 20:[SCP-5650](/scp-5650)
 
-## Meta/Format Screw
+### Meta/Format Screw
 
 SCPs that break the format in some way  
 1:[SCP-055](/scp-055)  
@@ -486,7 +486,7 @@ SCPs that break the format in some way
 19:[SCP-2508](/scp-2508)  
 20:[SCP-3626](/scp-3626)
 
-## Narrative
+### Narrative
 
 Stories Create Possibilities  
 Formal definition: SCP is, is related to, or propagates via narrative information or documents  
@@ -511,7 +511,7 @@ Formal definition: SCP is, is related to, or propagates via narrative informatio
 19:[SCP-1304](/scp-1304)  
 20:[SCP-3117](/scp-3117)
 
-## Ontokinetic/Reality Bending
+### Ontokinetic/Reality Bending
 
 Bending and warping what we consider normal  
 1:[SCP-1425](/scp-1425)  
@@ -535,7 +535,7 @@ Bending and warping what we consider normal
 19:[EXTDOC-5495](/scp-5495)  
 20:[SCP-7000-J](/scp-7000-j)
 
-## Religious
+### Religious
 
 Excuse me sir, have you heard the word of our Lord and Savior Skip?
 
@@ -560,7 +560,7 @@ Excuse me sir, have you heard the word of our Lord and Savior Skip?
 19:[SCP-2852](/scp-2852)  
 20:[SCP-2200](/scp-2200)
 
-## Spacetime/Warped Space
+### Spacetime/Warped Space
 
 Let parallel lines diverge here  
 1:[SCP-1437](/scp-1437)  
@@ -584,7 +584,7 @@ Let parallel lines diverge here
 19:[SCP-3300](/scp-3300)  
 20:[SCP-2508](/scp-2508)
 
-## Temporal
+### Temporal
 
 Timey-Wimey ball, for those you you who want time travel or messed up time  
 1:[SCP-3001](/scp-3001)  
@@ -608,7 +608,7 @@ Timey-Wimey ball, for those you you who want time travel or messed up time
 19:[SCP-119](/scp-119)  
 20:[SCP-699](/scp-699)
 
-## Tool
+### Tool
 
 When all you have is a hammer  
 1:[SCP-168](/scp-168)  
@@ -632,7 +632,7 @@ When all you have is a hammer
 19:[SCP-1188](/scp-1188)  
 20:[SCP-764](/scp-764)
 
-## Weapon
+### Weapon
 
 Pew pew  
 1:[SCP-186](/scp-186)  

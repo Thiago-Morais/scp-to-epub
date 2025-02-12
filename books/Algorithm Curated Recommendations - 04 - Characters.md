@@ -2,7 +2,7 @@
 title: Algorithm Curated Recommendations - 04 - Characters
 ---
 
-# Algorithm Curated Recommendations
+## Algorithm Curated Recommendations
 
 Welcome to the SCP wiki algorithm curated recommendations, here we have used the GoodBoy AI to provide a selection of stories for new readers and for readers who want an introduction to a particular section of this website, be it a type of SCP, a group of interest or a canon.
 
@@ -20,7 +20,7 @@ What is going on behind the selection for these lists is a little complicated. A
 
 The full details of the actual math behind this should go up on SCP declassified at some point.
 
-# Characters
+## Characters
 
 There are a lot of well know characters in the SCP universe. Here are some introductions to the most popular ones.
 
@@ -33,7 +33,7 @@ There are a lot of well know characters in the SCP universe. Here are some intro
 -   [_Iris Thompson/SCP-105_](#iris-thompsonscp-105)
 -   [_The Sculpture/SCP-173/Peanut_](#the-sculpturescp-173peanut)
 
-## Doctor Clef
+### Doctor Clef
 
 1:[Transcript of Dr. Clef's seminar, "Reality Benders and You: How to Survive When Existence Doesn't."](/clef101)  
 2:[SCP-342](/scp-342)  
@@ -56,7 +56,7 @@ There are a lot of well know characters in the SCP universe. Here are some intro
 19:[All They Want is the Blood](/all-they-want-is-the-blood)  
 20:[Dr. Cimmerian Hits Reply All](/cimmerian-sends-650-pms)
 
-## Doctor Cimmerian
+### Doctor Cimmerian
 
 You are wrong about this list  
 1:[SCP-4051](/scp-4051)  
@@ -80,7 +80,7 @@ You are wrong about this list
 19:[Come Back Kid](/come-back-kid)  
 20:[Electronic Data](/electronic-data)
 
-## Doctor Gears
+### Doctor Gears
 
 1:[SCP-666½-J](/scp-666-and-a-half-j)  
 2:[SCP-2000](/scp-2000)  
@@ -103,7 +103,7 @@ You are wrong about this list
 19:[CONFISCATED DOCUMENT 941-B](/scptabloid)  
 20:[Unfinished Business](/unfinished-business)
 
-## The Administrator
+### The Administrator
 
 1:[S. D. Locke's Proposal](/shaggydredlocks-proposal)  
 2:[CODE NAME: ████ ███ - The Truth](/code-name-the-truth)  
@@ -126,7 +126,7 @@ You are wrong about this list
 19:[SCP-5666](/scp-5666)  
 20:[djkaktus's Proposal III](/djkaktus-s-proposal-iii)
 
-## Scarlet King
+### Scarlet King
 
 1:[SCP-2317](/scp-2317)  
 2:[Fear Alone](/fear-alone)  
@@ -149,7 +149,7 @@ You are wrong about this list
 19:[The Thing at the Bottom of My Dreams](/the-thing-at-the-bottom-of-my-dreams)  
 20:[The Real Adventures in Capitalism](/the-real-adventures-in-capitalism)
 
-## Sigurros/SCP-239
+### Sigurros/SCP-239
 
 1:[Da Capo al Fine](/da-capo-al-fine)  
 2:[A Suicide Note](/a-suicide-note)  
@@ -162,7 +162,7 @@ You are wrong about this list
 9:[Siggy and the Slumbering Woods](/siggy-and-the-slumbering-woods)  
 10:[Supplemental Report 239-B-192](/supplemental-report-239-b-192)
 
-## Iris Thompson/SCP-105
+### Iris Thompson/SCP-105
 
 1:[Operation "Camp Granada"](/hellomuddah)  
 2:[Immediate Actions](/immediate-actions)  
@@ -175,7 +175,7 @@ You are wrong about this list
 9:[Calm](/calm)  
 10:[Incident Zero - Part 2](/incident-zero-part-2)
 
-## The Sculpture/SCP-173/Peanut
+### The Sculpture/SCP-173/Peanut
 
 1:[SCP-6001](/scp-6001)  
 2:[Crunch](/crunch)  

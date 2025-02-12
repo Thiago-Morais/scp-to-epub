@@ -2,7 +2,7 @@
 title: Algorithm Curated Recommendations - 06 - Canons
 ---
 
-# Algorithm Curated Recommendations
+## Algorithm Curated Recommendations
 
 Welcome to the SCP wiki algorithm curated recommendations, here we have used the GoodBoy AI to provide a selection of stories for new readers and for readers who want an introduction to a particular section of this website, be it a type of SCP, a group of interest or a canon.
 
@@ -20,7 +20,7 @@ What is going on behind the selection for these lists is a little complicated. A
 
 The full details of the actual math behind this should go up on SCP declassified at some point.
 
-# Canons
+## Canons
 
 While the SCP wiki does not have a central canon, we do have a bunch of smaller canons each with their own feel.
 
@@ -38,7 +38,7 @@ For this I would recommend looking at the hubs for these canons if you like what
 -   [_The Trashfire_](#the-trashfire)
 -   [_Those Twisted Pines_](#those-twisted-pines)
 
-## AIAD
+### AIAD
 
 Stories about virtual people making a virtual difference.  
 1:[SCP-2987](/scp-2987)  
@@ -62,7 +62,7 @@ Stories about virtual people making a virtual difference.
 19:[SCP-5841](/scp-5841)  
 20:[Welcome to History](/welcome-to-history)
 
-## Broken Masquerade
+### Broken Masquerade
 
 The Foundation is out in the open now, so what does that mean?  
 1:[Ethical?](/ethical)  
@@ -86,7 +86,7 @@ The Foundation is out in the open now, so what does that mean?
 19:[Paperpushing](/paperpushing)  
 20:[Forum Post](/forum-post)
 
-## End of Death
+### End of Death
 
 Death is the promise that all of the hardships we face will, at some point, come to an end. But what if death did not keep its promise? If the hardships just kept coming? We would have no choice but to persevere through them. Forever.  
 1:[Impossible-To-Destroy Reptile](/impossible-to-destroy-reptile)  
@@ -110,7 +110,7 @@ Death is the promise that all of the hardships we face will, at some point, come
 19:[GRANT REQUEST FOR THE PERFECTION OF BRAIN TRANSPLANTS FOR IDENTITY PERPETUATION AS TREATMENT FOR AGE-IMPAIRED IMMORTALITY](/surgical-identity-perpetuation)  
 20:[Do You Remember Funerals?](/do-you-remember-funerals)
 
-## From 120's Archives
+### From 120's Archives
 
 As the world becomes more and more magical and wondrous, the Foundation must change its ways towards acceptance and collaboration. Unless it wants to let the world surrender to the fallout of the Three Great Diasporas, the possibly resurgent Fae Empire, and its god-like ruler, Queen Mab, it must finally make a move, in a collaborative effort to change the world for the better.  
 1:[Critter Profile: Sparky!](/critter-profile-sparky)  
@@ -134,7 +134,7 @@ As the world becomes more and more magical and wondrous, the Foundation must cha
 19:[Fresh Blood](/fresh-blood)  
 20:[Whack-a-Mole](/whack-a-mole)
 
-## On Guard 43
+### On Guard 43
 
 Subverting Common Practices; Tales of a Canadian site that does things a little differently  
 1:[SCP-5616](/scp-5616)  
@@ -158,7 +158,7 @@ Subverting Common Practices; Tales of a Canadian site that does things a little 
 19:[SCP-6056](/scp-6056)  
 20:[SCP-6069](/scp-6069)
 
-## Resurrection
+### Resurrection
 
 A reboot of the really old "central story" of the SCP Foundation  
 1:["I Quit."](/iquit)  
@@ -172,7 +172,7 @@ A reboot of the really old "central story" of the SCP Foundation
 9:[No Joke](/no-joke)  
 10:[Lending a Hand](/lending-a-hand)
 
-## S&C Plastics
+### S&C Plastics
 
 Sloth's Pit, Wisconsin is a very weird small town with a bottomless pit at it center. Site-87 has been trying, and failing, to make sense of it for decades.  
 1:[Halloween at S & C Plastics](/halloween-at-s-c-plastics)  
@@ -196,7 +196,7 @@ Sloth's Pit, Wisconsin is a very weird small town with a bottomless pit at it ce
 19:[Local Legends](/local-legends)  
 20:[Leafers](/leafers)
 
-## Site-17 Deepwell Catalog
+### Site-17 Deepwell Catalog
 
 People come to power. Other people get hurt. It doesn't matter if it belongs to a conceptual embodiment or a Site Director, power seems to breed injury at Site-17, and people have started to notice. Old structures are groaning beneath the weight of their antiquity, and it's up to a few researchers and SCPs to survive the coming crash.  
 1:[SCP-6820](/scp-6820)  
@@ -220,7 +220,7 @@ People come to power. Other people get hurt. It doesn't matter if it belongs to 
 19:[Somnambulant Directives Take The Helm](/somnambulant-directives-take-the-helm)  
 20:[A Hymn For Pandora](/a-hymn-for-pandora)
 
-## Third Law
+### Third Law
 
 Knowledge is power. Reality is explainable. The universe fundamentally makes sense. Sufficiently advanced technology is indistinguishable from a really big gun. The anomalies of today are the cutting edge of tomorrow. The impossible never stays that way. Welcome to the future.  
 1:[SCP-2820](/scp-2820)  
@@ -244,7 +244,7 @@ Knowledge is power. Reality is explainable. The universe fundamentally makes sen
 19:[Overheard At Deer](/the-seltzorcism)  
 20:[Permanent Waves](/permanent-waves)
 
-## The Trashfire
+### The Trashfire
 
 The Old Gods of Daevon lay wounded upon their altars, but their children thrive, eating away at the margins of an already irrational reality. You learn to make do.  
 1:[SCP-4776](/scp-4776)  
@@ -258,7 +258,7 @@ The Old Gods of Daevon lay wounded upon their altars, but their children thrive,
 9:[SCP-4947](/scp-4947)  
 10:[When Will You Die for the Last Time in My Dreams - Hub](/wwydftltimd-hub)
 
-## Those Twisted Pines
+### Those Twisted Pines
 
 Strange things are done in the Northwest Rains. From the extradimensional antics of Three Portlands, to the cybernetic reign of Anderson Robotics, to a bizarre partnership with Wilson's Wildlife Services, it's up to the fine folks of Site-64 to keep everything contained.  
 1:[SCP-3108](/scp-3108)  

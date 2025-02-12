@@ -2,7 +2,7 @@
 title: "Black Autumn II: Rise Of the Pit Sloth Hub"
 ---
 
-# Black Autumn II: Rise Of the Pit Sloth Hub
+## Black Autumn II: Rise Of the Pit Sloth Hub
 
 Another year, another Halloween, another horror film festival. They had to cancel the one last year for obvious reasons— you can't exactly run a film festival when you have a [scarecrow stuffed with the body of the festival's manager](/chapter-1-corvophobia) appear in the middle of the popcorn machine. But, it's under new management now.
 

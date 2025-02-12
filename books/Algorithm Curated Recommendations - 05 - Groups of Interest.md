@@ -2,7 +2,7 @@
 title: Algorithm Curated Recommendations - 05 - Groups of Interest
 ---
 
-# Algorithm Curated Recommendations
+## Algorithm Curated Recommendations
 
 Welcome to the SCP wiki algorithm curated recommendations, here we have used the GoodBoy AI to provide a selection of stories for new readers and for readers who want an introduction to a particular section of this website, be it a type of SCP, a group of interest or a canon.
 
@@ -20,7 +20,7 @@ What is going on behind the selection for these lists is a little complicated. A
 
 The full details of the actual math behind this should go up on SCP declassified at some point.
 
-# Groups of Interest
+## Groups of Interest
 
 The Foundation is not alone out there, there are hundreds of cults, secret societies, government coverups and other organisation, all aware of the paranormal. Here are some articles on most of them.
 
@@ -50,7 +50,7 @@ Check out the [Groups of Interest page](/groups-of-interest) for more informatio
 -   [_Wilsons Wildlife Solutions_](#wilsons-wildlife-solutions)
 -   [_Vikander-Kneed Technical Media_](#vikander-kneed-technical-media)
 
-## Anderson Robotics
+### Anderson Robotics
 
 They make robots, now with 20% less ghosts!  
 1:[SCP-6001](/scp-6001)  
@@ -74,7 +74,7 @@ They make robots, now with 20% less ghosts!
 19:[Simple Sketches](/simple-sketches)  
 20:[Building Up](/building-up)
 
-## Chaos Insurgency
+### Chaos Insurgency
 
 A rogue splinter group of the Foundation that uses anomalies for its own benefit.  
 1:[Quiet Days](/quiet-days)  
@@ -98,7 +98,7 @@ A rogue splinter group of the Foundation that uses anomalies for its own benefit
 19:[Empty Unmarked Grave](/empty-unmarked-grave)  
 20:[SCP-2490](/scp-2490)
 
-## The Church of the Broken God
+### The Church of the Broken God
 
 A religion based around reassembling a dead god, loves their gears and mechanisms  
 1:[Quiet Days](/quiet-days)  
@@ -122,7 +122,7 @@ A religion based around reassembling a dead god, loves their gears and mechanism
 19:[SCP-1461](/scp-1461)  
 20:[Snippets of an Unveiled World](/broken-masquerade-epistolary)
 
-## Class of '76
+### Class of '76
 
 You do not recognize the bodies in the water.  
 1:[SCP-1833](/scp-1833)  
@@ -136,7 +136,7 @@ You do not recognize the bodies in the water.
 9:[SCP-4316](/scp-4316)  
 10:[SCP-5805](/scp-5805)
 
-## dado
+### dado
 
 sorry dado's uppercase key broken  
 buy dado's stuff  
@@ -151,7 +151,7 @@ buy dado's stuff
 9:[SCP-4432](/scp-4432)  
 10:[SCP-3238](/scp-3238)
 
-## Daevite
+### Daevite
 
 A collapsed central Asian empire that loved a bit of blood sacrifice, currently in the process of retroactively uncollapsing itself.  
 1:[SCP-140](/scp-140)  
@@ -175,7 +175,7 @@ A collapsed central Asian empire that loved a bit of blood sacrifice, currently 
 19:[When We Came Home](/when-we-came-home)  
 20:[SCP-1564](/scp-1564)
 
-## Dr. Wondertainment
+### Dr. Wondertainment
 
 Hey kids, who wants magic toys with zero safety testing?  
 1:[Quiet Days](/quiet-days)  
@@ -199,7 +199,7 @@ Hey kids, who wants magic toys with zero safety testing?
 19:[SCP-2284](/scp-2284)  
 20:[SCP-2201](/scp-2201)
 
-## Fifth Church
+### Fifth Church
 
 Five Five Five Five Five  
 A strange religion that's way too into fives.  
@@ -224,7 +224,7 @@ A strange religion that's way too into fives.
 5:[SCP-475](/scp-475)  
 5:[Not a contest entry, but a crackfic about gods anyways](/party-of-gods)
 
-## Gamers Against Weed
+### Gamers Against Weed
 
 Gay communist shitposters, but with magic  
 1:[SCP-3108](/scp-3108)  
@@ -248,7 +248,7 @@ Gay communist shitposters, but with magic
 19:[The Abyss Gazes Back (and It's ASCII on a CRT Screen)](/the-abyss-gazes-back)  
 20:[SCP-4914](/scp-4914)
 
-## Global Occult Coalition
+### Global Occult Coalition
 
 The paranormal counterpart to the United Nations. Protecting the world, whether it likes it or not.  
 1:[SCP-4205](/scp-4205)  
@@ -272,7 +272,7 @@ The paranormal counterpart to the United Nations. Protecting the world, whether 
 19:[SCP-2228](/scp-2228)  
 20:[1](/1)
 
-## GRU Division-P
+### GRU Division-P
 
 The magic KGB  
 1:[SCP-3034](/scp-3034)  
@@ -296,7 +296,7 @@ The magic KGB
 19:[SCP-2617](/scp-2617)  
 20:[SCP-5001](/scp-5001)
 
-## Horizon Initiative
+### Horizon Initiative
 
 Nobody expects the Judeo-Christian-Muslim Inquisition!  
 1:[TwistedGears-Kaktus Proposal](/twistedgears-kaktus-proposal)  
@@ -320,7 +320,7 @@ Nobody expects the Judeo-Christian-Muslim Inquisition!
 19:[Crossing The Streams](/crossing-the-streams)  
 20:[The Summer King](/the-summer-king)
 
-## Marshall, Carter and Dark
+### Marshall, Carter and Dark
 
 An exclusive organisation serving only the most sophisticated customers.  
 1:[Quiet Days](/quiet-days)  
@@ -344,7 +344,7 @@ An exclusive organisation serving only the most sophisticated customers.
 19:[SCP-865](/scp-865)  
 20:[SCP-1989](/scp-1989)
 
-## Nameless
+### Nameless
 
 Beings that were genocided by the Foundation. Cannot be refereed to by name without severe consequences  
 1:[REDACTED PER PROTOCOL 4000-ESHU](/taboo)  
@@ -358,7 +358,7 @@ Beings that were genocided by the Foundation. Cannot be refereed to by name with
 9:[Most Beautiful Things](/most-beautiful-things)  
 10:[SCP-5925](/scp-5925)
 
-## Three Portlands
+### Three Portlands
 
 An extradimentional space linked to three different Portlands, one of the largest anomalous cities in the world  
 1:[Snippets of an Unveiled World](/broken-masquerade-epistolary)  
@@ -383,7 +383,7 @@ An extradimentional space linked to three different Portlands, one of the larges
 20:[SCP-6426](/scp-6426)  
 21:[Wilson's Wildlife Adoption Gallery](/wilson-s-wildlife-adoption-gallery)
 
-## Parawatch (non creepypasta)
+### Parawatch (non creepypasta)
 
 Internet weirdos who think there is a grand conspiracy to hide the truth from the public. Crazy, right? Mostly used to write creepypastas that are not linked to the SCP universe, but here is some of the other stuff.  
 1:[SCP-6001](/scp-6001)  
@@ -397,7 +397,7 @@ Internet weirdos who think there is a grand conspiracy to hide the truth from th
 9:[SCP-6599](/scp-6599)  
 10:[SCP-6080](/scp-6080)
 
-## Prometheus Labs
+### Prometheus Labs
 
 FOR SCIENCE! (Now Defunct)  
 1:[The Great Hippo's Proposal (feat. PeppersGhost)](/scp-001-ex)  
@@ -421,7 +421,7 @@ FOR SCIENCE! (Now Defunct)
 19:[UIU File: 2014-014](/uiu-file-2014-014)  
 20:[The Bard of Ambrose](/the-bard-of-ambrose)
 
-## The Serpent's Hand
+### The Serpent's Hand
 
 The paranormal rights group of the anomalous world, opposing both the GOC and the Foundation whenever they're not chilling in a trendy extradimensional library.  
 1:[SCP-407](/scp-407)  
@@ -445,7 +445,7 @@ The paranormal rights group of the anomalous world, opposing both the GOC and th
 19:[SCP-5000](/scp-5000)  
 20:[Snippets of an Unveiled World](/broken-masquerade-epistolary)
 
-## Shark Punching Center
+### Shark Punching Center
 
 PUNCH SHARKS! (Don't ask)  
 1:[10:30 A.M.](/10-30-a-m)  
@@ -459,7 +459,7 @@ PUNCH SHARKS! (Don't ask)
 9:[SPC-173](/spc-173-j)  
 10:[SPC-2922](/spc-2922)
 
-## Sarkic
+### Sarkic
 
 An ancient religion based around using flesh crafting to steal the power of gods. Surprisingly amiable, all things considered.  
 1:[SCP-2264](/scp-2264)  
@@ -483,7 +483,7 @@ An ancient religion based around using flesh crafting to steal the power of gods
 19:[A Wandsman in the Court of the Hanged King](/a-wandsman-in-the-court-of-the-hanged-king)  
 20:[GOC, or that guy with a gun fetish](/goc-or-that-guy-with-a-gun-fetish)
 
-## Unusual Incidents Unit
+### Unusual Incidents Unit
 
 The branch of the FBI that investigates paranormal crimes. Don't make "X Files" jokes around the wizard cops.  
 1:[Quiet Days](/quiet-days)  
@@ -507,7 +507,7 @@ The branch of the FBI that investigates paranormal crimes. Don't make "X Files" 
 19:[SCP-5141](/scp-5141)  
 20:[On the Radar](/on-the-radar)
 
-## Wilsons Wildlife Solutions
+### Wilsons Wildlife Solutions
 
 Based in Boring, but don't let the name fool you. The intrepid volunteers of Wilson's Wildlife Solutions find new homes for cute critters that would otherwise end up in Foundation containment.  
 1:[SCP-6001](/scp-6001)  
@@ -531,7 +531,7 @@ Based in Boring, but don't let the name fool you. The intrepid volunteers of Wil
 19:[Adoption Poster: Ol' Shock!](/adoption-poster-ol-shock)  
 20:[Critter Profile: Sampson!](/critter-profile-sampson)
 
-## Vikander-Kneed Technical Media
+### Vikander-Kneed Technical Media
 
 Bringing the light to one bleak soul after another, with the power of MEDIA™️. Won't you join us in that Better Tomorrow™️?  
 1:[Interviews with Prospective Groups of Interest](/interviews-with-prospective-groups-of-interest)  

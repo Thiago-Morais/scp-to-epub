@@ -2,7 +2,7 @@
 title: Algorithm Curated Recommendations
 ---
 
-# Algorithm Curated Recommendations
+## Algorithm Curated Recommendations
 
 Welcome to the SCP wiki algorithm curated recommendations, here we have used the GoodBoy AI to provide a selection of stories for new readers and for readers who want an introduction to a particular section of this website, be it a type of SCP, a group of interest or a canon.
 
@@ -20,7 +20,7 @@ What is going on behind the selection for these lists is a little complicated. A
 
 The full details of the actual math behind this should go up on SCP declassified at some point.
 
-# General
+## General
 
 Here are some recommendations for the various types of fiction you can find on the SCP wiki.
 
@@ -332,7 +332,7 @@ Big ideas and big stories
 19:[Noir Box Proposal](/jack-ike-s-proposal-ii)  
 20:[djkaktus's Proposal I](/djkaktus-s-proposal)
 
-# Object Classes
+## Object Classes
 
 Here are some examples of various object classes, from the usual safe, euclid, keter to some of the more esoteric object classes. See [the object classes page](/object-classes) for more details of what each class entails.
 
@@ -592,7 +592,7 @@ Other
 29:[SCP-6668](/scp-6668)  
 30:[SCP-5494](/scp-5494)
 
-# SCPs
+## SCPs
 
 We have over 7000 different SCPs, so there are a lot of different subcatagories of them. This is all based on our tags system, so if you like something, do check out the tag.
 
@@ -1228,7 +1228,7 @@ Pew pew
 19:[SCP-4400](/scp-4400)  
 20:[SCP-2307](/scp-2307)
 
-# Characters
+## Characters
 
 There are a lot of well know characters in the SCP universe. Here are some introductions to the most popular ones.
 
@@ -1406,7 +1406,7 @@ You are wrong about this list
 19:[Have A Heart](/have-a-heart)  
 20:[Date Night](/date-night)
 
-# Groups of Interest
+## Groups of Interest
 
 The Foundation is not alone out there, there are hundreds of cults, secret societies, government coverups and other organisation, all aware of the paranormal. Here are some articles on most of them.
 
@@ -1931,7 +1931,7 @@ Bringing the light to one bleak soul after another, with the power of MEDIAâ„¢ï¸
 9:[SCP-6156](/scp-6156)  
 10:[SCP-1337-EX](/scp-1337-ex)
 
-# Canons
+## Canons
 
 While the SCP wiki does not have a central canon, we do have a bunch of smaller canons each with their own feel.
 

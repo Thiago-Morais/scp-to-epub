@@ -2,7 +2,7 @@
 title: Algorithm Curated Recommendations - 01 - General
 ---
 
-# Algorithm Curated Recommendations
+## Algorithm Curated Recommendations
 
 Welcome to the SCP wiki algorithm curated recommendations, here we have used the GoodBoy AI to provide a selection of stories for new readers and for readers who want an introduction to a particular section of this website, be it a type of SCP, a group of interest or a canon.
 
@@ -20,7 +20,7 @@ What is going on behind the selection for these lists is a little complicated. A
 
 The full details of the actual math behind this should go up on SCP declassified at some point.
 
-# General
+## General
 
 Here are some recommendations for the various types of fiction you can find on the SCP wiki.
 
@@ -34,7 +34,7 @@ Here are some recommendations for the various types of fiction you can find on t
 -   [_Joke_](#joke)
 -   [_001 Proposals_](#001-proposals)
 
-## SCPs
+### SCPs
 
 Various highly recommended SCP documents  
 1:[SCP-055](/scp-055)  
@@ -78,7 +78,7 @@ Various highly recommended SCP documents
 39:[SCP-3125](/scp-3125)  
 40:[SCP-4001](/scp-4001)
 
-## Tales
+### Tales
 
 Highly rated more traditional stories  
 Do note that due to the [antimemtics series](/antimemetics-division-hub) taking up a large part of this list normally, only the first two entries from the list have been included. Do read this series as it is widely considered to be the best the wiki has too offer.  
@@ -123,7 +123,7 @@ Do note that due to the [antimemtics series](/antimemetics-division-hub) taking 
 39:[Log of Anomalous Ducks](/log-of-anomalous-ducks)  
 40:[#StormSite19](/stormsite19)
 
-## GoI Formats
+### GoI Formats
 
 The Foundation isn't the only ones who work with the anomalous, these document the strange and unusual from a different perspective.  
 1:[GRANT REQUEST FOR A REPLACEMENT KEYBOARD BECAUSE THE CAPS LOCK ON THIS ONE IS BROKEN](/grant-request-for-a-replacement-keyboard-because-the-caps-lo)  
@@ -157,7 +157,7 @@ The Foundation isn't the only ones who work with the anomalous, these document t
 29:[Adoption Poster: Phoebe!](/adoption-poster-phoebe)  
 30:[Project Proposal 2004-024: "My Father's Values"](/project-proposal-2004-024)
 
-## International
+### International
 
 Translated stories from overseas.  
 1:[SCP-179](/scp-179)  
@@ -191,7 +191,7 @@ Translated stories from overseas.
 29:[Unusual](/unusual)  
 30:[GRANT REQUEST FOR THE CREATION OF A CURE FOR THE IRON ALLERGY NATIVE TO THE HOMO SAPIENS SIDHE SPECIES](/wniosek-o-dotacje-na-opracowanie-srodka-przeciwko-alergii)
 
-## Creepypasta
+### Creepypasta
 
 Spooky stories to send shivers down your spine, not required to be connected to the wider SCP universe
 1:[Substation 9](/substation-9)
@@ -225,7 +225,7 @@ Spooky stories to send shivers down your spine, not required to be connected to 
 29:[Tales From Parawatch: Welcome to the Internet, Have a Look Around](/tales-from-parawatch-welcome-to-the-internet)
 30:[A Little Bunny's Doctor](/a-little-bunnys-doctor)
 
-## Interactive
+### Interactive
 
 Hypertext fiction for the modern web, choose your own adventure
 
@@ -260,7 +260,7 @@ Hypertext fiction for the modern web, choose your own adventure
 29:[SCP-5000-J](/scp-5000-j)
 30:[SCP-6017](/scp-6017)
 
-## Video
+### Video
 
 Now in Technicolor!
 Yes we do have videos now
@@ -275,7 +275,7 @@ Yes we do have videos now
 9:[SCP-3972](/scp-3972)
 10:[Consequences and Collarbones](/consequences-and-collarbones)
 
-## Joke
+### Joke
 
 🤡
 1:[SCP-666-J](/scp-666-j)
@@ -309,7 +309,7 @@ Yes we do have videos now
 29:[SCP-1132-J](/scp-1132-j)
 30:[SCP-1D6-J](/scp-1d6-j)
 
-## 001 Proposals
+### 001 Proposals
 
 Big ideas and big stories
 1:[S. D. Locke's Proposal](/shaggydredlocks-proposal)

@@ -2,7 +2,7 @@
 title: Algorithm Curated Recommendations - 02 - Object Classes
 ---
 
-# Algorithm Curated Recommendations
+## Algorithm Curated Recommendations
 
 Welcome to the SCP wiki algorithm curated recommendations, here we have used the GoodBoy AI to provide a selection of stories for new readers and for readers who want an introduction to a particular section of this website, be it a type of SCP, a group of interest or a canon.
 
@@ -20,7 +20,7 @@ What is going on behind the selection for these lists is a little complicated. A
 
 The full details of the actual math behind this should go up on SCP declassified at some point.
 
-# Object Classes
+## Object Classes
 
 Here are some examples of various object classes, from the usual safe, euclid, keter to some of the more esoteric object classes. See [the object classes page](/object-classes) for more details of what each class entails.
 
@@ -34,7 +34,7 @@ Here are some examples of various object classes, from the usual safe, euclid, k
 -   [_Explained_](#Explained)
 -   [_Esoteric Class_](#Esoteric-Class)
 
-## Safe
+### Safe
 
 Stick it in a box and forget about it  
 1:[SCP-1437](/scp-1437)  
@@ -68,7 +68,7 @@ Stick it in a box and forget about it
 29:[SCP-3939](/scp-3939)  
 30:[SCP-163](/scp-163)
 
-## Euclid
+### Euclid
 
 Stick it in a box and keep an idea on it  
 1:[SCP-3008](/scp-3008)  
@@ -102,7 +102,7 @@ Stick it in a box and keep an idea on it
 29:[SCP-966](/scp-966)  
 30:[SCP-513](/scp-513)
 
-## Keter
+### Keter
 
 Stick it in a box and hope it doesn't get out  
 1:[SCP-055](/scp-055)  
@@ -136,7 +136,7 @@ Stick it in a box and hope it doesn't get out
 29:[SCP-804](/scp-804)  
 30:[SCP-1739](/scp-1739)
 
-## Thaumiel
+### Thaumiel
 
 Stick other things in it  
 1:[SCP-179](/scp-179)  
@@ -160,7 +160,7 @@ Stick other things in it
 19:[Kate McTiriss's Proposal](/kate-mctiriss-s-proposal)  
 20:[SCP-4098](/scp-4098)
 
-## Apollyon
+### Apollyon
 
 It already escaped the box and is currently destroying the world  
 1:[S. D. Locke's Proposal](/shaggydredlocks-proposal)  
@@ -174,7 +174,7 @@ It already escaped the box and is currently destroying the world
 9:[SCP-4485](/scp-4485)  
 10:[SCP-6218](/scp-6218)
 
-## Archon
+### Archon
 
 Do not put it in the box  
 1:[SCP-4043](/scp-4043)  
@@ -188,7 +188,7 @@ Do not put it in the box
 9:[SCP-6557](/scp-6557)  
 10:[SCP-7600](/scp-7600)
 
-## Neutralized
+### Neutralized
 
 No need to put it in a box anymore  
 1:[SCP-1762](/scp-1762)  
@@ -222,7 +222,7 @@ No need to put it in a box anymore
 29:[EXTDOC-5495](/scp-5495)  
 30:[SCP-2265](/scp-2265)
 
-## Explained
+### Explained
 
 Sometimes the world actually does make sense and you never needed to put in the box to begin with  
 1:[SCP-8900-EX](/scp-8900-ex)  
@@ -246,7 +246,7 @@ Sometimes the world actually does make sense and you never needed to put in the 
 19:[SCP-1927-EX](/scp-1927-ex)  
 20:[SCP-2600-EX](/scp-2600-ex)
 
-## Esoteric Class
+### Esoteric Class
 
 Other  
 1:[SCP-2602, which used to be a library](/scp-2602)  

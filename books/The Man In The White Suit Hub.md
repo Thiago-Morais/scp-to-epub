@@ -2,7 +2,7 @@
 title: The Man In The White Suit Hub
 ---
 
-# **The Man in the White Suit Hub**
+## **The Man in the White Suit Hub**
 
 > _"Cyclops, you asked my noble name, and I will tell it; but do you give the stranger's gift, just as you promised. My name is Nobody. Nobody I am called by mother, father, and by all my comrades."_
 
@@ -12,7 +12,7 @@ title: The Man In The White Suit Hub
 
 ---
 
-### 05.23.2077
+## 05.23.2077
 
 Current Objective: Avoid the Man in the White Suit, comb through the Nobody Archives to figure out his deal (and Nobody's while I'm at it). Assemble the Name Machine.
 
@@ -46,11 +46,11 @@ Current Status: Download complete. Now to do some reading.
 [Files intercepted from Anderson Systems personnel](/intercepts)  
 [SCP-5375 -- Nobody and the Name Machine](/scp-5375)
 
-### Epilogue
+## Epilogue
 
 [Nobody in their Right Mind](/nobody-in-their-right-mind)
 
-### Bonus
+## Bonus
 
 [DECRYPTION FAILURE, FILE CORRUPTED](/memebodies)
 
