@@ -1,82 +1,85 @@
 ---
 title: Serpent's Hand Hub
+cover:
+    theme: /theme:wanderers
+    themeImage: https://scp-wiki.wdfiles.com/local--files/serpent-s-hand-hub/shlogo3---Cutout2.png
 ---
 
 ## Serpent's Hand Hub
 
 ![shlogo3---Cutout2.png](https://scp-wiki.wdfiles.com/local--files/serpent-s-hand-hub/shlogo3---Cutout2.png)
 
-### Collected Entries
+## Collected Entries
 
-**Entries:**  
-[Spirit Staff of Eastern Avian Shaman](/spirit-staff-of-eastern-avian-shaman) — It's like a cell phone for birds.  
-[The Choir Below](/the-choir-below) — She who sings the deep.  
-[The Second Child](/the-second-child) — Envy's beacon. Aka [SCP-017](/scp-017) (Shadow Person).  
-[Summer's Exile](/summer-s-exile) — Ever denied the lands of Summer. Aka [SCP-682](/scp-682) (Hard-to-Destroy Reptile).  
-[Blue Lily Chains](/blue-lily-chains) — Keep the wasps out of your hair.  
-[I, Who Will Be One With All](/hello-i-am-an-eldritch-horror) — Hello, I Am an Eldritch Horror. Aka [SCP-426](/scp-426) (I am a Toaster).  
-[The Reassembled One](/the-reassembled-one) — The Son of MEKHANE. Aka an alternate reality's interpretation of [SCP-073](/scp-073) ("Cain").  
-[The Hydra's Spine](/the-hydra-s-spine) — The Camdorian Labyrinth leads to many treasures. Aka [SCP-2344](/scp-2344).  
-[The Lord of Endowments](/the-lord-of-endowments) — The god of transhumanism.  
-[The Conspiracy of Sigma-3](/the-conspiracy-of-sigma-3) — The Devils Among Us.  
-[Artificial Dragons Gate](/artificial-dragons-gate) — Laurie's guide to turning carp to dragons.  
-[A Love Letter to a Lady Mantis](/a-love-letter-to-a-lady-mantis) — Cloud-scorpion seeks lady red mantis mate.  
-[KoI Format](/koi-format) — Through a carp's eyes.  
-[How to Adopt a Butterfly Koi](/how-to-adopt-a-butterfly-koi) — For your school, household, royal court, water society, crustacean valet service, aquatic matchmaking house, or birthday party.  
-[A Wedding Gift For A Lady Mantis](/a-wedding-gift-for-a-lady-mantis) — He is a good pet who bit five noblemantids.  
-[Mr. Doggo](/mr-doggo) — A very spirited doggo, creation of the Merrymakers.  
-[The Slumbering Prince](/the-slumbering-prince)  
-[The Kaiju Sea](/the-kaiju-sea) — There's always a bigger fish.  
-[A New Age of Magic](/a-new-age-of-magic) — Our time has finally come.  
-[The Sacred Djehuti](/the-sacred-djehuti) — These are the sacred texts of Birds vs Sharks.  
-[How To Make A Focus Of Ultimate Power](/how-to-make-a-focus-of-ultimate-power-a-guide)  
-[A Quiet Night](/a-quiet-night)  
-[The Millenary Nine-tailed Fox](/gumiho) — Also known as, "[that damned Vixen](/scp-953)."  
-[Finding a Demon Fox: “Jangsan Tiger (？)” in Busan](/searching-for-the-demon-foxes-1)  
-[Lord Goran](/lord-goran) — A brute of the Scarlet King.  
-[The Gallows Tree](/the-gallows-tree)  
-[The Grove of Exiles](/the-grove-of-exiles), aka the place whose name is [taboo](/taboo).  
-[The Deniers](/the-deniers) — The opponents of all faithful adherents, practitioners of thaumaturgy, and students of the occult.  
-[The Great Shucks of the Unnamed Lords](/the-great-shucks-of-the-unnamed-lords) — Big, black doggos.  
-[ROCK WAR! ROCK WAR!](/rock-war-rock-war) — Social commentary on battle royales involving slabs of rocks.  
-[Karcist Halyna Ieva](/mother-who-demands-ones-toes) — The Mother Who Demands One's Toes, a fallen Karcist who marches an army of toeless minions.  
-[Alchemical Familiars](/alchemical-familiars)  
-[Clown Town](/clown-town) — A Town for Clowns.  
-["Scattersomnia": A Disease of the Wise and Drowsy Wanderers](/scattersomnia) — A plague of thought.  
-[A Sympathetic Thorn in the Side of the Bookburners](/a-sympathetic-thorn-in-the-side-of-the-bookburners)  
-[The Black Vaults of Alagadda](/the-black-vaults-of-alagadda)  
-[The Emperor of Many Voices](/the-emperor-of-many-voices), aka [The Hive](the-hive-hub)  
-[New Atlantis, Arizona](/new-atlantis) — An ancient maritime civilization, reborn in the desert.  
-[Marw (The Reincarnated One)](/marw-el-reencarnado) - The tale of a reincarnating feline and his family.  
-[The Deathless Merchant of London](/the-deathless-merchant-of-london) — A parasite of reality, Percival Darke.  
-[Lord Jeser](/lord-jeser) — The Prince of Many Faces under the rule of the Scarlet King.  
-[Pegasus](/pegasus) — A formerly winged horse also known as [SCP-042](/scp-042).  
-[A Dreaming Giant's Chair](/a-dreaming-giant-s-chair) — Oneiric union thought an old forgotten ritual.  
-[The Queens Butterfly](/the-queens-butterfly) — The two Faerie Queens, Mab and Aurora.  
-[General Moloch](/general-moloch) — A general of the Scarlet King.  
-[Vassago](/vassago) — A demon prince of Hell, aka [SCP-2980](/scp-2980)\-1  
-[Publin](/publin) — The Wanderers' Library's finest drinking establishment.  
-[Lord Kenkgor](/lord-kenkgor) — The Mouth of the Scarlet King  
+**Entries:**
+[Spirit Staff of Eastern Avian Shaman](/spirit-staff-of-eastern-avian-shaman) — It's like a cell phone for birds.
+[The Choir Below](/the-choir-below) — She who sings the deep.
+[The Second Child](/the-second-child) — Envy's beacon. Aka [SCP-017](/scp-017) (Shadow Person).
+[Summer's Exile](/summer-s-exile) — Ever denied the lands of Summer. Aka [SCP-682](/scp-682) (Hard-to-Destroy Reptile).
+[Blue Lily Chains](/blue-lily-chains) — Keep the wasps out of your hair.
+[I, Who Will Be One With All](/hello-i-am-an-eldritch-horror) — Hello, I Am an Eldritch Horror. Aka [SCP-426](/scp-426) (I am a Toaster).
+[The Reassembled One](/the-reassembled-one) — The Son of MEKHANE. Aka an alternate reality's interpretation of [SCP-073](/scp-073) ("Cain").
+[The Hydra's Spine](/the-hydra-s-spine) — The Camdorian Labyrinth leads to many treasures. Aka [SCP-2344](/scp-2344).
+[The Lord of Endowments](/the-lord-of-endowments) — The god of transhumanism.
+[The Conspiracy of Sigma-3](/the-conspiracy-of-sigma-3) — The Devils Among Us.
+[Artificial Dragons Gate](/artificial-dragons-gate) — Laurie's guide to turning carp to dragons.
+[A Love Letter to a Lady Mantis](/a-love-letter-to-a-lady-mantis) — Cloud-scorpion seeks lady red mantis mate.
+[KoI Format](/koi-format) — Through a carp's eyes.
+[How to Adopt a Butterfly Koi](/how-to-adopt-a-butterfly-koi) — For your school, household, royal court, water society, crustacean valet service, aquatic matchmaking house, or birthday party.
+[A Wedding Gift For A Lady Mantis](/a-wedding-gift-for-a-lady-mantis) — He is a good pet who bit five noblemantids.
+[Mr. Doggo](/mr-doggo) — A very spirited doggo, creation of the Merrymakers.
+[The Slumbering Prince](/the-slumbering-prince)
+[The Kaiju Sea](/the-kaiju-sea) — There's always a bigger fish.
+[A New Age of Magic](/a-new-age-of-magic) — Our time has finally come.
+[The Sacred Djehuti](/the-sacred-djehuti) — These are the sacred texts of Birds vs Sharks.
+[How To Make A Focus Of Ultimate Power](/how-to-make-a-focus-of-ultimate-power-a-guide)
+[A Quiet Night](/a-quiet-night)
+[The Millenary Nine-tailed Fox](/gumiho) — Also known as, "[that damned Vixen](/scp-953)."
+[Finding a Demon Fox: “Jangsan Tiger (？)” in Busan](/searching-for-the-demon-foxes-1)
+[Lord Goran](/lord-goran) — A brute of the Scarlet King.
+[The Gallows Tree](/the-gallows-tree)
+[The Grove of Exiles](/the-grove-of-exiles), aka the place whose name is [taboo](/taboo).
+[The Deniers](/the-deniers) — The opponents of all faithful adherents, practitioners of thaumaturgy, and students of the occult.
+[The Great Shucks of the Unnamed Lords](/the-great-shucks-of-the-unnamed-lords) — Big, black doggos.
+[ROCK WAR! ROCK WAR!](/rock-war-rock-war) — Social commentary on battle royales involving slabs of rocks.
+[Karcist Halyna Ieva](/mother-who-demands-ones-toes) — The Mother Who Demands One's Toes, a fallen Karcist who marches an army of toeless minions.
+[Alchemical Familiars](/alchemical-familiars)
+[Clown Town](/clown-town) — A Town for Clowns.
+["Scattersomnia": A Disease of the Wise and Drowsy Wanderers](/scattersomnia) — A plague of thought.
+[A Sympathetic Thorn in the Side of the Bookburners](/a-sympathetic-thorn-in-the-side-of-the-bookburners)
+[The Black Vaults of Alagadda](/the-black-vaults-of-alagadda)
+[The Emperor of Many Voices](/the-emperor-of-many-voices), aka [The Hive](the-hive-hub)
+[New Atlantis, Arizona](/new-atlantis) — An ancient maritime civilization, reborn in the desert.
+[Marw (The Reincarnated One)](/marw-el-reencarnado) - The tale of a reincarnating feline and his family.
+[The Deathless Merchant of London](/the-deathless-merchant-of-london) — A parasite of reality, Percival Darke.
+[Lord Jeser](/lord-jeser) — The Prince of Many Faces under the rule of the Scarlet King.
+[Pegasus](/pegasus) — A formerly winged horse also known as [SCP-042](/scp-042).
+[A Dreaming Giant's Chair](/a-dreaming-giant-s-chair) — Oneiric union thought an old forgotten ritual.
+[The Queens Butterfly](/the-queens-butterfly) — The two Faerie Queens, Mab and Aurora.
+[General Moloch](/general-moloch) — A general of the Scarlet King.
+[Vassago](/vassago) — A demon prince of Hell, aka [SCP-2980](/scp-2980)\-1
+[Publin](/publin) — The Wanderers' Library's finest drinking establishment.
+[Lord Kenkgor](/lord-kenkgor) — The Mouth of the Scarlet King
 [Ero'Vahk](/ero-vahk) — A former cadre of the Scarlet King, aka [SCP-5991](/scp-5991)
 
-**Translated from Regional Lodges of the Serpent's Hand:**  
-[Dinodon's Hand](dinodon-s-hand) — An introduction to the Korean Serpent's Hand.  
-[Aodaisho](aodaisho-hub) — An introduction to the Japanese Serpent’s Hand.  
-[Those who were killed and eaten as medicinal material](sh-cannibalism-in-taiwan) — Cannibalism in Taiwan.  
+**Translated from Regional Lodges of the Serpent's Hand:**
+[Dinodon's Hand](dinodon-s-hand) — An introduction to the Korean Serpent's Hand.
+[Aodaisho](aodaisho-hub) — An introduction to the Japanese Serpent’s Hand.
+[Those who were killed and eaten as medicinal material](sh-cannibalism-in-taiwan) — Cannibalism in Taiwan.
 [Vidnepas Protectors of the Descendants of the Stardust](vidnepas-protectores-de-los-descendientes-del-polvo-estelar) — Rabbits from the Stars. Aka [SCP-ES-191](scp-es-191).
 
-**Tales:**  
-[Sam](/sam): I'm Sam. I'm Sam. I'm Sam.  
-[Stolen Gilded Stolen Saved](/stolen-gilded-stolen-saved): Spooky scary skeletons.  
-[Birdseed](/birdseed): “Shh. I’m writing a love story.”  
-[Another Soul Joins The Halkost](/another-soul-joins-the-halkost): "If not for your life, do it for your _TOES_, man!"  
-_The Serpent Sequence_ — A story about courage. Stars [the Black Queen](/black-queen-hub), [SCP-239](/scp-239), and the Foundation.  
-1\. [Prisoners](/prisoners)  
-2\. [Family](/family)  
-3\. [Showtime](/showtime)  
+**Tales:**
+[Sam](/sam): I'm Sam. I'm Sam. I'm Sam.
+[Stolen Gilded Stolen Saved](/stolen-gilded-stolen-saved): Spooky scary skeletons.
+[Birdseed](/birdseed): “Shh. I’m writing a love story.”
+[Another Soul Joins The Halkost](/another-soul-joins-the-halkost): "If not for your life, do it for your _TOES_, man!"
+_The Serpent Sequence_ — A story about courage. Stars [the Black Queen](/black-queen-hub), [SCP-239](/scp-239), and the Foundation.
+1\. [Prisoners](/prisoners)
+2\. [Family](/family)
+3\. [Showtime](/showtime)
 4\. [Sisters](/sisters)
 
-### Leaked Foundation Documents
+## Leaked Foundation Documents
 
 -   [SCP-6053](/scp-6053)
 -   [SCP-8659](/scp-8659)
@@ -179,12 +182,12 @@ _The Serpent Sequence_ — A story about courage. Stars [the Black Queen](/black
 -   [Tufto's Proposal](/tuftos-proposal)
 -   [SCP-6000](/scp-6000)
 
-**Translated from International Branches of the Foundation:**  
-[SCP-233-FR](scp-233-fr)  
-[SCP-CN-326](scp-cn-326)  
+**Translated from International Branches of the Foundation:**
+[SCP-233-FR](scp-233-fr)
+[SCP-CN-326](scp-cn-326)
 [SCP-412-KO](scp-412-ko)
 
-### Stories
+## Stories
 
 -   [Nantucket](/nantucket)
 -   [I Didn't Forget Pt 12: Site 17](/i-didn-t-forget-pt-12-site-17)
@@ -293,7 +296,7 @@ _The Serpent Sequence_ — A story about courage. Stars [the Black Queen](/black
 -   [Chive und Artemisia, Part 2](nexus-6-2)
 -   [Chive und Artemisia, Part 3](nexus-6-3)
 
-### Entry Style
+## Entry Style
 
 _Here find a compiled style guide for one of the formats used by the Serpent's Hand for documenting various entities, locations, events, apparatuses, and other phenomena. —M.S._
 
@@ -329,14 +332,14 @@ _Throughout the document, remember to treat sapient individuals or Peoples with 
 
 **Traits:** _Describe physical appearance. List notable characteristics. Ensure that all preternatural or otherwise unusual characteristics are noted; how an apparatus works (and primary uses or abilities), unusual biology, what the famed magical abilities of a notable figure are like. If characteristics are ordinary, briefly note this as well. This section can be long, or short. —Q.R._
 
-_For apparatuses and designed objects, remember to explain craftsmanship. Note if handmade/forged/summoned(ritual)/machined (if separate pieces were made with different processes, list all of applicable)._  
-_Elemental incorporation: what kind of raw materials with elemental affinities are incorporated in significant amounts into the making of the item?_  
-_Also specify a focus or foci: one specific component that is key to the function or making of the item._  
+_For apparatuses and designed objects, remember to explain craftsmanship. Note if handmade/forged/summoned(ritual)/machined (if separate pieces were made with different processes, list all of applicable)._
+_Elemental incorporation: what kind of raw materials with elemental affinities are incorporated in significant amounts into the making of the item?_
+_Also specify a focus or foci: one specific component that is key to the function or making of the item._
 _—Z.S._
 
-**Nature:** _"Nature" can be often thought of as "Usual Behavior". Describe how the subject acts in particular situations, or how it generally functions. For animals and the like, this is simply their behavior. For spells or phenomena, this can describe quirks in how they manifest. For machines, how they operate._  
-_For sapient entities, this section can note group divergence from expected patterns, or how a specific individual is remembered._  
-_If this section has nothing worth noting, as for inanimate or nonfunctional objects or unique events, write "Ordinary"._  
+**Nature:** _"Nature" can be often thought of as "Usual Behavior". Describe how the subject acts in particular situations, or how it generally functions. For animals and the like, this is simply their behavior. For spells or phenomena, this can describe quirks in how they manifest. For machines, how they operate._
+_For sapient entities, this section can note group divergence from expected patterns, or how a specific individual is remembered._
+_If this section has nothing worth noting, as for inanimate or nonfunctional objects or unique events, write "Ordinary"._
 _—Q.R._
 
 _For objects and apparatuses with forms of sapience/sentience, pay special attention to Loyalty. Loyalty is how well the subject’s effects will manifest when used by different people._
@@ -351,26 +354,26 @@ _—Z.S._
 
 **History & Associated Parties:** _Origin of subject, if known. Series of past events pertaining to the subject. Notable events that the subject was involved in, or connected to. Regarding associated parties: List information on significant friendly entities, as well as enemies and relationships with other associated entities and groups. —Q.R._
 
-_For apparatuses and designed objects: Add name of creator, if known. Note if this was a special commission._  
-_For locations, note involvement of individuals or groups in shaping it, if any._  
+_For apparatuses and designed objects: Add name of creator, if known. Note if this was a special commission._
+_For locations, note involvement of individuals or groups in shaping it, if any._
 _Note Custodian if applicable. If an individual (due to age, fragility, etc.) or location or other subject is in the active care, protection, or possession of another individual, that individual is the custodian. If there is no custodian, but there could or should be, note there is no custodian. —Z.S._
 
 **Approach:** _This tells you what you need to know to safely or correctly interact with the subject\[s\] of the article. Note how to deal with strengths and vulnerabilities of subject if applicable. Any information you need to know regarding safe handling, polite communication, correct rituals, or anything else of the sort. **Knowledge is safety as well as power.** —Q.R._
 
-_A few traditional examples:_  
-_"Don't ever say thank you to a mounds fairy…"_  
-_"Nature of Old Ravenna changes based on time of day and year…"_  
-_"Don't bother blue aerie torchbugs at night…"_  
-_"Blow three kisses into the cauldron…"_  
+_A few traditional examples:_
+_"Don't ever say thank you to a mounds fairy…"_
+_"Nature of Old Ravenna changes based on time of day and year…"_
+_"Don't bother blue aerie torchbugs at night…"_
+_"Blow three kisses into the cauldron…"_
 _—I.J._
 
 _Feel free to re-emphasize already noted information, though please don't use ALL CAPITAL LETTERS or get goofy with your format. One of our early entries was enchanted to have an animated rainbow monster jump out at the viewer and scream a garbled message followed with "AT ALL COSTS!". The article's author was not very popular after that. —I.J._
 
-_Remember to note if applicaple:_  
-_Invocations: words or phrases that when spoken aloud have a consistently observed and predictable (or semi-predictable) effect on the subject_  
-_Handling: how to treat a subject when using it; how to behave around certain entities or locations_  
-_Maintenance: how to keep objects or apparatuses in good condition, information on any cleaning/rituals to follow upon entering or exiting locations_  
-_Tools change stories each time they change hands. Remembering stories deepens bonds. Honor your tools, and they will honor you._  
+_Remember to note if applicaple:_
+_Invocations: words or phrases that when spoken aloud have a consistently observed and predictable (or semi-predictable) effect on the subject_
+_Handling: how to treat a subject when using it; how to behave around certain entities or locations_
+_Maintenance: how to keep objects or apparatuses in good condition, information on any cleaning/rituals to follow upon entering or exiting locations_
+_Tools change stories each time they change hands. Remembering stories deepens bonds. Honor your tools, and they will honor you._
 _—Z.S._
 
 _Include "Accommodations" for sapient beings with unusual requirements, as well as guidelines for respectful interaction. Remember that anomalous persons should be treated like people — because they are people. —I.J._
@@ -398,8 +401,6 @@ _As these magical elements provide certain aetherial protections, we encourage H
 _Remember to add additional seals for information that is particularly sensitive to vulnerable parties, but try to hide as little as possible. We have a responsibility to all to tell as much as we know, even to our enemies. Only by the light of knowledge may even the worst of us finally step out of the darkness of cruelty and fear._
 
 _—M.S._
-
----
 
 ---
 
@@ -507,5 +508,5 @@ The Garden is the Serpent's place.
 
 We are the Serpent's Hand.
 
-~ M.  
+~ M.
 [The Wanderer's Library, 2014](http://wanderers-library.wikidot.com/)

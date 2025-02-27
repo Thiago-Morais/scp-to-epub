@@ -1,5 +1,8 @@
 ---
 title: Factory Hub
+cover:
+    theme: "/theme:the-coalition-theme"
+    themeImage: auto
 ---
 
 ## Factory Hub
@@ -56,11 +59,11 @@ The Factory is a poorly-understood entity or group of entities of indeterminate 
 
 _**Of the Robber Barons**_
 
-_Into a new world the Barons creep,  
-And as her workers slowly weep,  
-Fuel is drained from limbs and blood,  
-Her vision of this world is stained by mud,  
-Walls built in err of their time,  
+_Into a new world the Barons creep,
+And as her workers slowly weep,
+Fuel is drained from limbs and blood,
+Her vision of this world is stained by mud,
+Walls built in err of their time,
 And bricks wrought of sin and grime._
 
 The Robber Barons are believed to be a trans-universal concept which maintains great difficulty in movement between realities1. The first recorded appearance of the Robber Barons was in Γ-7382, year 5720 EV, in which the Barons manifested as a small restaurant which did not sell food2. From Γ-7382, the Barons slowly infected further universes with no known pattern, with the sole exception that expansion takes between 500-2000 years.
@@ -73,8 +76,8 @@ Her workers are abandoned after they submit to the Barons, and are left to be to
 
 _"Recovered subjects displayed no physical anomalies, though both physical and mental health showed signs of significant bodily damage of non-anomalous origin, primarily occurring through smoke inhalation and physical trauma sustained via the Factory's various machines. Subjects are kept in the Site-32 hospital."_ —Medical journal of Heather Michael, SCP Foundation
 
-1: As inferred from texts concerning universes Γ-7382 through Σ-0214.  
-2: More information concerning the Factory's recorded origins can be found in _Aunt Sherira's Diner, A History_.  
+1: As inferred from texts concerning universes Γ-7382 through Σ-0214.
+2: More information concerning the Factory's recorded origins can be found in _Aunt Sherira's Diner, A History_.
 3: Collected from _Business Ventures in Tenth-Dimensional Space; A Documentary of the Industrial Revolution_.
 
 ---
@@ -253,17 +256,17 @@ TRANSLATED DOCUMENTATION
 
 EVENT NAME:
 
-FACTORY  
+FACTORY
 (EST. 1835)
 
-Event names should effectively summarize what transpired without providing detail. Event names can be displayed with or without all-caps.  
-It's important to note that if you aren't using all-caps, the first letter of every word should be capitalized. This applies to all sections until otherwise specified.  
-It should also be noted that periods should not be used either, until otherwise specified.  
+Event names should effectively summarize what transpired without providing detail. Event names can be displayed with or without all-caps.
+It's important to note that if you aren't using all-caps, the first letter of every word should be capitalized. This applies to all sections until otherwise specified.
+It should also be noted that periods should not be used either, until otherwise specified.
 The grey bar on the side will have to be altered to fit the amount of rows present in the Event Report. To do this change "rowspan = '#'" from the first cell code to the correct amount.
 
 EVENT ID:
 
-Event IDs are formatted as the first letter in the most relevant word followed by a dash and an arbitrary five-digit numerical designation.  
+Event IDs are formatted as the first letter in the most relevant word followed by a dash and an arbitrary five-digit numerical designation.
 For example, a format regarding [corporate sabotage might be ID'd as "S-14919"](corporate-sabotage-14919)
 
 IMPORTANCE:
@@ -272,12 +275,12 @@ Low/Medium/High \[CHOOSE ONE\]
 
 LOCATION:
 
-Area that the event took place in. Generally speaking, Factory formats focus on events that occur in their factories, though other locations can be used.  
+Area that the event took place in. Generally speaking, Factory formats focus on events that occur in their factories, though other locations can be used.
 Factory-owned areas are designated by stating the compass direction and the country/county/state the Factory is in, followed by what purpose the building serves. E.G. "Northwestern Idaho Manufacturing Center".[\[1\]](#footnote-728c-1)
 
 DATE:
 
-The day in which the event occurred.  
+The day in which the event occurred.
 Formatted as M D, Y, with the month written as a word, the day, written using digits, followed by that number's placement suffix, and the year written using digits. E.G. "January 5th, 1969".
 
 PRIMARY ACTOR(S):
@@ -306,7 +309,7 @@ OTHER AFFECTED STAKEHOLDERS:
 
 RELEVANT PRIOR INFORMATION:
 
-\[PERIODS ARE USED FROM THIS POINT FORWARDS | FIRST-LETTER CAPITALIZATION IS NOT USED FROM THIS POINT FORWARDS\]  
+\[PERIODS ARE USED FROM THIS POINT FORWARDS | FIRST-LETTER CAPITALIZATION IS NOT USED FROM THIS POINT FORWARDS\]
 Exactly what it sounds like. Any information that would influence the event or help the reader to understand what's going on.
 
 DESCRIPTION:

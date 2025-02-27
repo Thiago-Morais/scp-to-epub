@@ -1,5 +1,8 @@
 ---
 title: Pages tagged with 'antimemetic'
+cover:
+    theme: "/theme:extra-black-highlighter-theme"
+    themeImage: auto
 ---
 
 ## Pages tagged with 'antimemetic':

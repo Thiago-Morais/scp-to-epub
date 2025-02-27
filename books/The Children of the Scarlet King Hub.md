@@ -1,5 +1,8 @@
 ---
 title: The Children of the Scarlet King Hub
+cover:
+    theme: /theme:extra-black-highlighter-theme
+    themeImage: https://scp-wiki.wdfiles.com/local--files/cotsk-hub/cotsk.png
 ---
 
 ## The Children of the Scarlet King Hub
@@ -18,7 +21,7 @@ A seal used by a 2014 iteration of the Children of the Scarlet King.
 
 **Group of Interest Number:** 586
 
-**Known Aliases:** "The Children", "The Scarlet Church", "Cult of the Scarlet Archon"[\[1\]](#footnote-90c8-1),  
+**Known Aliases:** "The Children", "The Scarlet Church", "Cult of the Scarlet Archon"[\[1\]](#footnote-90c8-1),
 "Rubella"[\[2\]](#footnote-90c8-2); see "Organization" for more details.
 
 [1](#footnoteref-90c8-1 "Go to note reference").  Derogatory, mainly used by Sarkicist and Cogwork Orthodox-affiliated groups.
@@ -133,9 +136,7 @@ Some Children, particularly those associated with existing religious groups, may
 
 Interestingly, the Children are not always directly beneath the King. Their position may be conditional on their own ability, or stuck in a lower tier as a servile class. They are, however, near-universally violent in their defense of this hierarchy.
 
-> "_The King is good_  
-> _As the King is good, the King does no wrong_  
-> _As the King does no wrong, to do as the King does is to do good_"
+> "_The King is good_ > _As the King is good, the King does no wrong_ > _As the King does no wrong, to do as the King does is to do good_"
 >
 > —Found engraved in Akkadian cuneiform on a human femur, partially obscured by teeth marks. Uncovered from a mass grave in the Hauran, circa 2000 BCE.
 
@@ -589,5 +590,3 @@ Do be warned, the community affords less time to certain… _overly_ disturbing 
 Don't limit yourself to a static group of a few people; no one human can say they define the King. Talk to anyone in the community you think might help you.
 
 Spread the word. :)
-
-**‡ Licensing / Citation:** see [This article's original page](https://scp-wiki.wikidot.com/cotsk-hub#:~:text=%E2%80%A1%20Licensing%20/%20Citation) for licensing/citation information.

@@ -1,5 +1,8 @@
 ---
 title: Pages tagged with 'antimemetics-division'
+cover:
+    theme: "/theme:extra-black-highlighter-theme"
+    themeImage: auto
 ---
 
 ## Pages tagged with 'antimemetics-division':

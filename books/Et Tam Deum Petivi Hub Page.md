@@ -1,5 +1,8 @@
 ---
 title: Et Tam Deum Petivi Hub Page
+cover:
+    theme: "/theme:the-coalition-theme"
+    themeImage: auto
 ---
 
 ## Welcome!

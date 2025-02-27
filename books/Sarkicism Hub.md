@@ -1,5 +1,8 @@
 ---
 title: Sarkicism Hub
+cover:
+    theme: "/theme:extra-black-highlighter-theme"
+    themeImage: "https://scp-wiki.wdfiles.com/local--files/sarkicism-hub/cf15Pj6.jpg"
 ---
 
 ## Sarkicism Hub
@@ -537,8 +540,8 @@ _**Yaldabaoth**_[\[19\]](#footnote-ad66-19) (also known as "_**Važjuma**_"[\[20
 
 As with all things related to Sarkicism, it is difficult to discern reality from myth - most especially when myth contradicts. Proto-Sarkites view this entity with fear and disgust, regarding it as both the creator and destroyer of all life and the progenitor of the gods. As more sects are discovered, the diversity of interpretation grows readily apparent.
 
-> The Wound, cut from the flesh of totality - deep, it severed the line of future and past. Drawn to its ancient fester, gods swarmed as flies to a corpse. We waited within bloodless veins, faithful to that which we could not know - unable to imagine that we might become their greater.  
-> Here, we slept - until our souls became flesh.  
+> The Wound, cut from the flesh of totality - deep, it severed the line of future and past. Drawn to its ancient fester, gods swarmed as flies to a corpse. We waited within bloodless veins, faithful to that which we could not know - unable to imagine that we might become their greater.
+> Here, we slept - until our souls became flesh.
 > **_Sone Alku_**
 
 _Yaldabaoth_ is portrayed as both destroyer and incidental creator, "feeding" upon gods, worlds, and stars, while "exhaling life" into the cosmos (which will evolve, grow, and eventually be harvested again). Life is thus a natural byproduct of the Old God's existence; unguided by intelligence and spreading through a process not entirely dissimilar from panspermia[\[22\]](#footnote-ad66-22). Sarkites believe this entity has turned the multiverse into an altar with our existence, and the existence of all biological lifeforms, being brought into reality for the singular purpose of sacrifice.
@@ -547,8 +550,8 @@ _Yaldabaoth_ is portrayed as both destroyer and incidental creator, "feeding" up
 
 "Blind" and driven solely by instinct, _Yaldabaoth_ is depicted as being accompanied by otherworldly entities known as "Archons" (or "_Vultaas_" among certain Proto-Sarkic cults). These beings are described by Sarkic texts as faceless manifestations of primordial chaos, their true forms inconceivable to the human mind. Gnostic and Mekhanite scripture would mention the Archons as well, describing them as "terrible and rapacious angels".
 
-> The swineherd prostrated himself before the Sorcerer-King and asked, "Great Sorcerer-King and Ozi̮rmok, Heart of Man and Light of Lights. I speak for the folk of the cold-marsh. We fear the red lanterns that dance without harmony; our spirit-guides warn of ill omens."  
-> And Ion did assure the man, "I have gazed upon the Faceless Ones, servitors of His Undulating Vastness. Their chief is blind - castrated by our words and will. He sings songs of anarchy but they will not come again. These terrible spirits do not deserve our love; render unto them no sacrifice until the stars have aligned."  
+> The swineherd prostrated himself before the Sorcerer-King and asked, "Great Sorcerer-King and Ozi̮rmok, Heart of Man and Light of Lights. I speak for the folk of the cold-marsh. We fear the red lanterns that dance without harmony; our spirit-guides warn of ill omens."
+> And Ion did assure the man, "I have gazed upon the Faceless Ones, servitors of His Undulating Vastness. Their chief is blind - castrated by our words and will. He sings songs of anarchy but they will not come again. These terrible spirits do not deserve our love; render unto them no sacrifice until the stars have aligned."
 > _**Sone Vith**_
 
 "The Six Ordeals of Ion" refers to six challenges issued to Ion by the Archons. Through enduring their trials, Ion is said to have mastered the rituals and practices ubiquitous to Sarkicism - breaking free from the "bondage" of mortal limitations. Further information about Ion's relationship with Yaldabaoth and his Archons (as well as the nature of the "Ordeals") remains unknown.[\[23\]](#footnote-ad66-23)
@@ -565,12 +568,12 @@ Some Sarkic cults hold that the Archons, along with Yaldabaoth, do not originate
 
 [25](#footnoteref-ad66-25 "Go to note reference").  An unusual choice of representation, as most Sarkites traditionally live inland and are unlikely to encounter cephalopods in the first place.
 
-> And to his flock, Ion thus spoke: "I have stepped beyond the Floe of Dreams; stood before the Old Ones within their own desolate domain.  
-> I have endured their intolerable force, across countless eons.  
-> I have seen the infinite dead worlds, murdered death herself.  
-> I have read the entrails of our Creator, beheld eternity unfurled.  
-> Know that our paradise draws near.  
-> And with our own flesh shall we birth it.  
+> And to his flock, Ion thus spoke: "I have stepped beyond the Floe of Dreams; stood before the Old Ones within their own desolate domain.
+> I have endured their intolerable force, across countless eons.
+> I have seen the infinite dead worlds, murdered death herself.
+> I have read the entrails of our Creator, beheld eternity unfurled.
+> Know that our paradise draws near.
+> And with our own flesh shall we birth it.
 > **_Sone Skaal_**
 
 ### History
@@ -617,7 +620,7 @@ Nadox wandered the land as a pariah; denied refuge and safe passage; struck with
 
 Nadox is typically depicted in red and gold attire, his head (sometimes hands) completely bandaged or caged by a punitive mask (representing his status as a "Sufferer") and bearing multiple arms with eyes in the palms of his hands. His symbols include eyes, hands, scrolls, teardrops, and lotus flowers.
 
-> And Ion held six fingers aloft and upon their spears did the soldiers impale themselves. "For you!" they cried before the blood drowned their tongues. And Ion said, "Now do you see?" And Nadox wept, as more did skewer themselves in Ion's name, for he had seen and now knew the truth of his words.  
+> And Ion held six fingers aloft and upon their spears did the soldiers impale themselves. "For you!" they cried before the blood drowned their tongues. And Ion said, "Now do you see?" And Nadox wept, as more did skewer themselves in Ion's name, for he had seen and now knew the truth of his words.
 > _**Sone Suraas**_
 
 #### Klavigar Lovataar ACCESS GRANTED
@@ -634,9 +637,9 @@ In her quest to make him hers, Lovataar sent wave after wave of slave-hunters bu
 
 Lovataar is typically depicted as beautiful, voluptuous (often to unrealistic extremes), and almost always in the nude (save for golden ornaments, including headdress, necklaces, and bangles). She is often stylized as having claw-like fingers and toes, as well as a pair of horns which may or may not be part of her headdress. Her symbols include an insect queen (traditionally bee or ant), a punctured heart, a blooming rose, and a broken scepter.
 
-> Beneath the Black Moon, Her Devotion took the form of a stone knife, like those of the reindeer folk of Adí-üm. Penetrated, amber blood, colored by ancient sins, poured from the wound - her tears like the warm rain of distant summers.  
-> Beneath the Poison Moon, the amber flowed no more - and the snow, she painted red. \[indecipherable\] for Ion, who drank deep the fermented honey of Lovataar's kiss. Ion surrendered upon her pale breasts - a shared respite in ecstasy.  
-> Still Ion hungered, and from Lovataar's dark lips flowed words, "There is pleasure in serving." Smiling, he fell to his knees - knowing the drunk joy of milk and sweet fermented honey.  
+> Beneath the Black Moon, Her Devotion took the form of a stone knife, like those of the reindeer folk of Adí-üm. Penetrated, amber blood, colored by ancient sins, poured from the wound - her tears like the warm rain of distant summers.
+> Beneath the Poison Moon, the amber flowed no more - and the snow, she painted red. \[indecipherable\] for Ion, who drank deep the fermented honey of Lovataar's kiss. Ion surrendered upon her pale breasts - a shared respite in ecstasy.
+> Still Ion hungered, and from Lovataar's dark lips flowed words, "There is pleasure in serving." Smiling, he fell to his knees - knowing the drunk joy of milk and sweet fermented honey.
 > _**Sone Tal**_
 
 #### Klavigar Orok ACCESS GRANTED
@@ -653,7 +656,7 @@ It is written that Ion, when taking the city of Jel, entered the palace of Matri
 
 Orok is typically depicted as a large and muscular cyclopic man wearing a loincloth. His symbols include a two-headed axe, a one-eyed skull, a hunting spear, fractured bones, a closed fist, and a bull elephant.
 
-> As Orok said to the Kytherans[\[32\]](#footnote-ad66-32) : "Power is made from the pain of the fragile. Here weakness dies. Here strength is born. I exert myself, a pale reflection of Ion's sacrifice of flesh to the intolerable force, and shed frailty's husk. I commune with my akuloth[\[33\]](#footnote-ad66-33) core - my sacred metamorphosis complete."  
+> As Orok said to the Kytherans[\[32\]](#footnote-ad66-32) : "Power is made from the pain of the fragile. Here weakness dies. Here strength is born. I exert myself, a pale reflection of Ion's sacrifice of flesh to the intolerable force, and shed frailty's husk. I commune with my akuloth[\[33\]](#footnote-ad66-33) core - my sacred metamorphosis complete."
 > _**Sone Szusk**_
 >
 > [32](#footnoteref-ad66-32 "Go to note reference").  Kythera is a location that appears in both Sarkic and Church of the Broken God scripture. The Valkzaron describes the conquest of Kythera and the conversion of its people. The Maxwellian Book of Horrors associates the location with a prophesied NK-class end-of-the-world scenario.
@@ -678,15 +681,15 @@ Honing her skills, Saarn would eventually control a network of spies and assassi
 
 Saarn is typically depicted as either a young girl dressed in rags or an entirely black half-human half-serpent being; occasionally both representations are shown, with the chimeric entity acting as the girl's shadow. Her symbols include serpents (traditionally adders), a sacrificial dagger, a scale, and bound effigies.
 
-> The heart is silenced,  
-> Before her dagger seen.  
-> A moment immortalized in a single strike.  
-> The Judgment - unavoidable, inescapable  
-> Dismay; a death inconceivable,  
-> To the arrogance of Daeva.  
-> Triumph; a dagger in the darkness.  
-> With the blood of tyrants,  
-> Our children sleep well.  
+> The heart is silenced,
+> Before her dagger seen.
+> A moment immortalized in a single strike.
+> The Judgment - unavoidable, inescapable
+> Dismay; a death inconceivable,
+> To the arrogance of Daeva.
+> Triumph; a dagger in the darkness.
+> With the blood of tyrants,
+> Our children sleep well.
 > _**Sone Vaku**_
 
 There is little available information about Sarkicism between c. 1600 and c. 1200 BCE, despite the period being considered the "Golden Age" of Sarkic civilization. It is during this period that Daevite culture recedes[\[36\]](#footnote-ad66-36), existing only as a small city state in what is now Mongolia. It is theorized that the lack of archaeological evidence for its existence is due in part to many Sarkic structures being composed of living organic material.
@@ -741,9 +744,9 @@ Practitioners of Proto-Sarkicism do not operate in the open unless a location is
 >
 > A page from a Solomonari ritual book.
 >
-> The ancestors of the Solomonari[\[44\]](#footnote-ad66-44) likely settled in the Carpathian Basin between 1200 to 600 BCE. It is presently hypothesized that the Sarkites assimilated the local proto-Thracian people, eventually becoming the Dacians - a people recorded by Ancient Greek and Roman sources.  
-> A Sarkic stronghold[\[45\]](#footnote-ad66-45), since classified as SCP-████, was discovered in the Southern Carpathians and is believed to have once been the heart of the Solomonari cult. It has been hypothesized that the Solomonari are related to (or one and the same as) the Dacian Cult of Zalmoxis, having culturally melded with the ancient proto-Thracian people.  
-> Documents discovered at SCP-████ and [SCP-2191](/scp-2191) suggest that the Solomonari remained highly influential, albeit secretive, until the 15th century - possibly destroyed by John Hunyadi, a leading Hungarian military and political figure. Several boyars of Wallachia and Moldavia, most notably the Gutkeled clan of Hungarian nobles, are now believed to have been under the control of the Solomonari; an influence that would lead to the development of Neo-Sarkicism and its western expansion.  
+> The ancestors of the Solomonari[\[44\]](#footnote-ad66-44) likely settled in the Carpathian Basin between 1200 to 600 BCE. It is presently hypothesized that the Sarkites assimilated the local proto-Thracian people, eventually becoming the Dacians - a people recorded by Ancient Greek and Roman sources.
+> A Sarkic stronghold[\[45\]](#footnote-ad66-45), since classified as SCP-████, was discovered in the Southern Carpathians and is believed to have once been the heart of the Solomonari cult. It has been hypothesized that the Solomonari are related to (or one and the same as) the Dacian Cult of Zalmoxis, having culturally melded with the ancient proto-Thracian people.
+> Documents discovered at SCP-████ and [SCP-2191](/scp-2191) suggest that the Solomonari remained highly influential, albeit secretive, until the 15th century - possibly destroyed by John Hunyadi, a leading Hungarian military and political figure. Several boyars of Wallachia and Moldavia, most notably the Gutkeled clan of Hungarian nobles, are now believed to have been under the control of the Solomonari; an influence that would lead to the development of Neo-Sarkicism and its western expansion.
 > It remains debatable whether modern practitioners should be considered true Solomonari, following what was discovered at SCP-████. Most are located in isolated pockets throughout the Carpathians, with little to no connection with one another. The religion, in its current state, is an amalgam of local folk traditions and Solomonari blood rituals.
 
 [44](#footnoteref-ad66-44 "Go to note reference").  Also historically recorded as the "_Zgrimțieș_", or "_Hultan_".
@@ -756,8 +759,8 @@ Practitioners of Proto-Sarkicism do not operate in the open unless a location is
 >
 > Located at SCP-2133: A cabin window shutter freshly painted with a religious symbol.
 >
-> The Church of the Red Harvest were discovered at [SCP-2133](/scp-2133) in 1936 by GRU Division "P". The Foundation became aware of the sect shortly after gaining control of SCP-2133 following the dissolution of the USSR.  
-> SCP-2133 is an unnamed village located in the northern Ural Mountains whose denizens are the only known members of the Church of the Red Harvest. The church practices a regeneration ritual, their recent dead harvested as newborns from the turnip fields found throughout SCP-2133. Members refer to the regenerative process as a part of an "old covenant", one that cannot be broken and is to last until the return of "paradise" (Adytum).  
+> The Church of the Red Harvest were discovered at [SCP-2133](/scp-2133) in 1936 by GRU Division "P". The Foundation became aware of the sect shortly after gaining control of SCP-2133 following the dissolution of the USSR.
+> SCP-2133 is an unnamed village located in the northern Ural Mountains whose denizens are the only known members of the Church of the Red Harvest. The church practices a regeneration ritual, their recent dead harvested as newborns from the turnip fields found throughout SCP-2133. Members refer to the regenerative process as a part of an "old covenant", one that cannot be broken and is to last until the return of "paradise" (Adytum).
 > It is currently believed that the Church of the Red Harvest is directly controlled by a Karcist ("Karcist Alka") located in a subterranean dwelling beneath the nearby mountains, connected to the village by a series of tunnels accessible via the village church.
 
 #### The Vātula  ACCESS GRANTED
@@ -766,7 +769,7 @@ Practitioners of Proto-Sarkicism do not operate in the open unless a location is
 >
 > A Vātula ceremonial circle.
 >
-> The Vātula (Sanskrit: वातुल) were initially mistaken for Aghori[\[46\]](#footnote-ad66-46) due to several, superficially similar rituals. Known to the Foundation since 1969, a Sarkic connection was only established in 2010 through extensive research.  
+> The Vātula (Sanskrit: वातुल) were initially mistaken for Aghori[\[46\]](#footnote-ad66-46) due to several, superficially similar rituals. Known to the Foundation since 1969, a Sarkic connection was only established in 2010 through extensive research.
 > The Vātula command fear and respect among the rural poor in the Indian states of Rajasthan, Himachal Pradesh, Jammu and Kashmir, Haryana, Punjab, and Gujarat. They trace their origins to Karcist Vaski, who they claim arrived from the northwest - granting them his blessing and spreading a virulent plague to their enemies.
 
 [46](#footnoteref-ad66-46 "Go to note reference").  Ascetic Shaiva sadhus known to engage in post-mortem rituals.
@@ -801,8 +804,8 @@ While some Neo-Sarkites prefer to cling to their crumbling manors, relying on la
 >
 > A likely invitation to the November 28, 1952 ceremony removed from the corpse of an Adytum's Wake cultist.
 >
-> Active throughout the Northeastern United States, Adytum's Wake is thought to be the oldest Sarkic organization in North America with evidence of their existence dating as far back as 1650. The organization was presumably destroyed on November 28, 1952 but not before the creation of [SCP-2480](/scp-2480) - considered by the founders of Project: Sitra Achra to represent the "first shots" of what would become a complex and invisible conflict.  
-> Cornelius P. Bodfel III (Karcist Sulkisk), a millionaire industrialist with an acute interest in the occult, was the acting leader of Adytum's Wake until his death in 1952. Dismissed by the Foundation in 1932 as merely another "decadent social club", their anomalous capabilities were not recognized until the November 28, 1952 incident.  
+> Active throughout the Northeastern United States, Adytum's Wake is thought to be the oldest Sarkic organization in North America with evidence of their existence dating as far back as 1650. The organization was presumably destroyed on November 28, 1952 but not before the creation of [SCP-2480](/scp-2480) - considered by the founders of Project: Sitra Achra to represent the "first shots" of what would become a complex and invisible conflict.
+> Cornelius P. Bodfel III (Karcist Sulkisk), a millionaire industrialist with an acute interest in the occult, was the acting leader of Adytum's Wake until his death in 1952. Dismissed by the Foundation in 1932 as merely another "decadent social club", their anomalous capabilities were not recognized until the November 28, 1952 incident.
 > The Foundation fears that Adytum's Wake survived its initial defeat. It is theorized that the renewed cult is presently under the control of Vivian Durant-Croÿ (president and CEO of the Durant Bodfel Financial Group), wife of Hungarian national Alexander Croÿ (CEO of Abraxas Arms and a suspected Sarkite).
 
 #### GoI-0432: The Hunter's Black Lodge  ACCESS GRANTED
@@ -811,9 +814,9 @@ While some Neo-Sarkites prefer to cling to their crumbling manors, relying on la
 >
 > "Skull of Orok", a tattoo motif common to members of the Black Lodge
 >
-> GoI-0432 is an anomalous criminal cult primarily active in the post-Soviet states. Known as "The Hunter's Black Lodge" (or simply the "Black Lodge"), GoI-0432 has been linked to extortion, murder, robbery, gambling, prostitution, human trafficking, drug trafficking, weapons trafficking, and underground fighting rings. While these activities are not inherently anomalous, the anomalous capabilities of GoI-0432 has had an aberrant effect on their practice.  
-> The Foundation first became aware of the Black Lodge in the early 1990s after receiving a tip from informants in INTERPOL. Further investigation uncovered GoI-0432 related documents from the recently dissolved GRU Division "P", later corroborated by former members. It appears that GRU Division "P" was unable to fully contain or neutralize the threat presented by the Black Lodge, with one source describing them as a "hydra" - the organization thought neutralized on several occasions only for it to reappear months later, "stronger than before".  
-> Victims of the Black Lodge have been discovered impaled, penetrated by large organic spines[\[47\]](#footnote-ad66-47) - the decedents commonly showing evidence of ritual cannibalism.  
+> GoI-0432 is an anomalous criminal cult primarily active in the post-Soviet states. Known as "The Hunter's Black Lodge" (or simply the "Black Lodge"), GoI-0432 has been linked to extortion, murder, robbery, gambling, prostitution, human trafficking, drug trafficking, weapons trafficking, and underground fighting rings. While these activities are not inherently anomalous, the anomalous capabilities of GoI-0432 has had an aberrant effect on their practice.
+> The Foundation first became aware of the Black Lodge in the early 1990s after receiving a tip from informants in INTERPOL. Further investigation uncovered GoI-0432 related documents from the recently dissolved GRU Division "P", later corroborated by former members. It appears that GRU Division "P" was unable to fully contain or neutralize the threat presented by the Black Lodge, with one source describing them as a "hydra" - the organization thought neutralized on several occasions only for it to reappear months later, "stronger than before".
+> Victims of the Black Lodge have been discovered impaled, penetrated by large organic spines[\[47\]](#footnote-ad66-47) - the decedents commonly showing evidence of ritual cannibalism.
 > To see all documents tagged with hunters-black-lodge, click here.
 
 [47](#footnoteref-ad66-47 "Go to note reference").  These spines appear superficially chitinous and, despite showing strong structural similarities to coral, contain human DNA.
@@ -824,8 +827,8 @@ While some Neo-Sarkites prefer to cling to their crumbling manors, relying on la
 >
 > Family crest of House Vörös, whose members hold immense sway over the cult.
 >
-> Active primarily throughout Europe, the Esoteric Order of the White Worm (_Fehér Féreg Ezoterikus Rend_) is a Sarkic cult disguised as an occult themed fraternal organization[\[48\]](#footnote-ad66-48). Similar to other "secret societies", the existence of the cult is an open secret while its true nature is unknown to the general population[\[49\]](#footnote-ad66-49).  
-> Based on documents recovered from the SCP-████ archives, the Esoteric Order may be one of the earliest Neo-Sarkic sects. Founded by Hungarian nobles heavily influenced by their Solomonari "court magicians", the religion transformed from a hidden pagan faith to a secret tool of the landed gentry.  
+> Active primarily throughout Europe, the Esoteric Order of the White Worm (_Fehér Féreg Ezoterikus Rend_) is a Sarkic cult disguised as an occult themed fraternal organization[\[48\]](#footnote-ad66-48). Similar to other "secret societies", the existence of the cult is an open secret while its true nature is unknown to the general population[\[49\]](#footnote-ad66-49).
+> Based on documents recovered from the SCP-████ archives, the Esoteric Order may be one of the earliest Neo-Sarkic sects. Founded by Hungarian nobles heavily influenced by their Solomonari "court magicians", the religion transformed from a hidden pagan faith to a secret tool of the landed gentry.
 > Descendants of House Vörös (a Hungarian noble family) are thought to dominate the leadership positions of the Esoteric Order.
 
 [48](#footnoteref-ad66-48 "Go to note reference").  An order, organisation, society or a club of men associated together for various religious or secular aims. Despite being referred to as "fraternal", the Esoteric Order of the White Worm is open to men and women.

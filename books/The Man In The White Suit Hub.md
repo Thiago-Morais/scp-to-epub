@@ -1,5 +1,8 @@
 ---
 title: The Man In The White Suit Hub
+cover:
+    theme: /theme:extra-black-highlighter-theme
+    themeImage: auto
 ---
 
 ## **The Man in the White Suit Hub**
@@ -36,14 +39,14 @@ Current Status: Download complete. Now to do some reading.
 
 ## **DECRYPTED FILES**
 
-[Hello My Name Isn't](/hello-my-name-isnt)  
-[Chiaroscuro](/chiaroscuro)  
-[Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit](/nobodyx4)  
-[SCP-5353 -- Does Anyone Remember Fritz Obermeyer?](/scp-5353)  
-[Everyday Is Somebody's Birthday](/everyday-is-somebodys-birthday)  
-[SCP-5877 -- Nobodies](/scp-5877)  
-[Ghosts in the Machine](/ghosts-in-the-machine)  
-[Files intercepted from Anderson Systems personnel](/intercepts)  
+[Hello My Name Isn't](/hello-my-name-isnt)
+[Chiaroscuro](/chiaroscuro)
+[Nobody, Nobody, Nobody, and Nobody's Encounters with The Man in the White Suit](/nobodyx4)
+[SCP-5353 -- Does Anyone Remember Fritz Obermeyer?](/scp-5353)
+[Everyday Is Somebody's Birthday](/everyday-is-somebodys-birthday)
+[SCP-5877 -- Nobodies](/scp-5877)
+[Ghosts in the Machine](/ghosts-in-the-machine)
+[Files intercepted from Anderson Systems personnel](/intercepts)
 [SCP-5375 -- Nobody and the Name Machine](/scp-5375)
 
 ## Epilogue
